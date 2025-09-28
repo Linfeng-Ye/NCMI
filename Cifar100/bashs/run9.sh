@@ -1,0 +1,13 @@
+CUDA_VISIBLE_DEVICES=3 python NCMI_gcenter_r.py -net resnet18 -gpu -b 256 -lr 0.1 -feature_Temp 0.7 -wd 5e-4 -centmomentum 0.999 -centlr 1.0 >> bs_256_2.txt
+CUDA_VISIBLE_DEVICES=3 python NCMI_gcenter_r.py -net resnet18 -gpu -b 256 -lr 0.1 -feature_Temp 1.0 -wd 5e-4 -centmomentum 0.999 -centlr 1.0 >> bs_256_2.txt
+CUDA_VISIBLE_DEVICES=3 python NCMI_gcenter_r.py -net resnet18 -gpu -b 256 -lr 0.1 -feature_Temp 2.0 -wd 5e-4 -centmomentum 0.999 -centlr 1.0 >> bs_256_2.txt
+CUDA_VISIBLE_DEVICES=3 python NCMI_gcenter_r.py -net resnet18 -gpu -b 256 -lr 0.1 -feature_Temp 0.7 -wd 5e-4 -centmomentum 0.999 -centlr 0.1 >> bs_256_2.txt
+CUDA_VISIBLE_DEVICES=3 python NCMI_gcenter_r.py -net resnet18 -gpu -b 256 -lr 0.1 -feature_Temp 1.0 -wd 5e-4 -centmomentum 0.999 -centlr 0.1 >> bs_256_2.txt
+CUDA_VISIBLE_DEVICES=3 python NCMI_gcenter_r.py -net resnet18 -gpu -b 256 -lr 0.1 -feature_Temp 2.0 -wd 5e-4 -centmomentum 0.999 -centlr 0.1 >> bs_256_2.txt
+CUDA_VISIBLE_DEVICES=3 python NCMI_gcenter_r.py -net resnet18 -gpu -b 256 -lr 0.1 -feature_Temp 0.7 -wd 5e-4 -centmomentum 0.999 -centlr 0.01 >> bs_256_2.txt
+CUDA_VISIBLE_DEVICES=3 python NCMI_gcenter_r.py -net resnet18 -gpu -b 256 -lr 0.1 -feature_Temp 1.0 -wd 5e-4 -centmomentum 0.999 -centlr 0.01 >> bs_256_2.txt
+CUDA_VISIBLE_DEVICES=3 python NCMI_gcenter_r.py -net resnet18 -gpu -b 256 -lr 0.1 -feature_Temp 2.0 -wd 5e-4 -centmomentum 0.999 -centlr 0.01 >> bs_256_2.txt
+CUDA_VISIBLE_DEVICES=3 python NCMI_gcenter_r.py -net resnet18 -gpu -b 256 -lr 0.1 -feature_Temp 0.7 -wd 5e-4 -centmomentum 0.99 -centlr 1.0 >> bs_256_2.txt
+CUDA_VISIBLE_DEVICES=3 python NCMI_gcenter_r.py -net resnet18 -gpu -b 256 -lr 0.1 -feature_Temp 1.0 -wd 5e-4 -centmomentum 0.99 -centlr 1.0 >> bs_256_2.txt
+CUDA_VISIBLE_DEVICES=3 python NCMI_gcenter_r.py -net resnet18 -gpu -b 256 -lr 0.1 -feature_Temp 2.0 -wd 5e-4 -centmomentum 0.99 -centlr 1.0 >> bs_256_2.txt
+CUDA_VISIBLE_DEVICES=3 python NCMI_gcenter_r.py -net resnet18 -gpu -b 256 -lr 0.1 -feature_Temp 0.7 -wd 5e-4 -centmomentum 0.99 -centlr 0.1 >> bs_256_2.txt

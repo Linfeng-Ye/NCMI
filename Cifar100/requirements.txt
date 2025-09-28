@@ -1,0 +1,9 @@
+torchvision==0.19.1+computecanada
+torch==2.4.1+computecanada
+einops==0.6.1+computecanada
+einops_exts==0.0.4+computecanada
+timm==0.6.12+computecanada
+numpy==1.26.4+computecanada
+pandas==2.2.3+computecanada
+pillow==10.2.0+computecanada
+tqdm==4.67.1+computecanada

@@ -1,0 +1,2416 @@
+1.0 0.1 0.07
+Files already downloaded and verified
+Files already downloaded and verified
+epoch 1 training time consumed: 30.65s
+Test set: Epoch: 1, CMI Accuracy: 0.0821,Time consumed:1.14s
+
+epoch 2 training time consumed: 29.09s
+Test set: Epoch: 2, CMI Accuracy: 0.1200,Time consumed:1.11s
+
+epoch 3 training time consumed: 29.13s
+Test set: Epoch: 3, CMI Accuracy: 0.1815,Time consumed:1.02s
+
+epoch 4 training time consumed: 29.17s
+Test set: Epoch: 4, CMI Accuracy: 0.2266,Time consumed:1.09s
+
+epoch 5 training time consumed: 29.10s
+Test set: Epoch: 5, CMI Accuracy: 0.2960,Time consumed:1.07s
+
+epoch 6 training time consumed: 29.17s
+Test set: Epoch: 6, CMI Accuracy: 0.3613,Time consumed:1.11s
+
+epoch 7 training time consumed: 29.10s
+Test set: Epoch: 7, CMI Accuracy: 0.4205,Time consumed:1.06s
+
+epoch 8 training time consumed: 29.08s
+Test set: Epoch: 8, CMI Accuracy: 0.4630,Time consumed:1.04s
+
+epoch 9 training time consumed: 29.10s
+Test set: Epoch: 9, CMI Accuracy: 0.4874,Time consumed:1.04s
+
+epoch 10 training time consumed: 29.10s
+Test set: Epoch: 10, CMI Accuracy: 0.5357,Time consumed:1.06s
+
+epoch 11 training time consumed: 29.12s
+Test set: Epoch: 11, CMI Accuracy: 0.5567,Time consumed:1.10s
+
+epoch 12 training time consumed: 29.12s
+Test set: Epoch: 12, CMI Accuracy: 0.5727,Time consumed:1.08s
+
+epoch 13 training time consumed: 29.06s
+Test set: Epoch: 13, CMI Accuracy: 0.5917,Time consumed:1.10s
+
+epoch 14 training time consumed: 29.10s
+Test set: Epoch: 14, CMI Accuracy: 0.6059,Time consumed:1.06s
+
+epoch 15 training time consumed: 29.08s
+Test set: Epoch: 15, CMI Accuracy: 0.6158,Time consumed:1.10s
+
+epoch 16 training time consumed: 29.07s
+Test set: Epoch: 16, CMI Accuracy: 0.6125,Time consumed:1.12s
+
+epoch 17 training time consumed: 29.10s
+Test set: Epoch: 17, CMI Accuracy: 0.6356,Time consumed:1.12s
+
+epoch 18 training time consumed: 29.07s
+Test set: Epoch: 18, CMI Accuracy: 0.6434,Time consumed:1.07s
+
+epoch 19 training time consumed: 29.16s
+Test set: Epoch: 19, CMI Accuracy: 0.6510,Time consumed:1.03s
+
+epoch 20 training time consumed: 29.07s
+Test set: Epoch: 20, CMI Accuracy: 0.6494,Time consumed:1.10s
+
+epoch 21 training time consumed: 29.05s
+Test set: Epoch: 21, CMI Accuracy: 0.6606,Time consumed:1.06s
+
+epoch 22 training time consumed: 29.03s
+Test set: Epoch: 22, CMI Accuracy: 0.6680,Time consumed:1.06s
+
+epoch 23 training time consumed: 29.16s
+Test set: Epoch: 23, CMI Accuracy: 0.6682,Time consumed:1.08s
+
+epoch 24 training time consumed: 29.09s
+Test set: Epoch: 24, CMI Accuracy: 0.6744,Time consumed:1.05s
+
+epoch 25 training time consumed: 32.10s
+Test set: Epoch: 25, CMI Accuracy: 0.6789,Time consumed:1.08s
+
+epoch 26 training time consumed: 29.14s
+Test set: Epoch: 26, CMI Accuracy: 0.6851,Time consumed:1.09s
+
+epoch 27 training time consumed: 29.10s
+Test set: Epoch: 27, CMI Accuracy: 0.6846,Time consumed:1.09s
+
+epoch 28 training time consumed: 29.06s
+Test set: Epoch: 28, CMI Accuracy: 0.6885,Time consumed:1.08s
+
+epoch 29 training time consumed: 29.19s
+Test set: Epoch: 29, CMI Accuracy: 0.6928,Time consumed:1.02s
+
+epoch 30 training time consumed: 29.20s
+Test set: Epoch: 30, CMI Accuracy: 0.6807,Time consumed:1.08s
+
+epoch 31 training time consumed: 29.05s
+Test set: Epoch: 31, CMI Accuracy: 0.6959,Time consumed:1.07s
+
+epoch 32 training time consumed: 29.15s
+Test set: Epoch: 32, CMI Accuracy: 0.6938,Time consumed:1.03s
+
+epoch 33 training time consumed: 29.08s
+Test set: Epoch: 33, CMI Accuracy: 0.6938,Time consumed:1.03s
+
+epoch 34 training time consumed: 29.11s
+Test set: Epoch: 34, CMI Accuracy: 0.7054,Time consumed:1.07s
+
+epoch 35 training time consumed: 29.06s
+Test set: Epoch: 35, CMI Accuracy: 0.6973,Time consumed:1.13s
+
+epoch 36 training time consumed: 29.11s
+Test set: Epoch: 36, CMI Accuracy: 0.7043,Time consumed:1.08s
+
+epoch 37 training time consumed: 29.10s
+Test set: Epoch: 37, CMI Accuracy: 0.7051,Time consumed:1.14s
+
+epoch 38 training time consumed: 29.12s
+Test set: Epoch: 38, CMI Accuracy: 0.6998,Time consumed:1.09s
+
+epoch 39 training time consumed: 29.06s
+Test set: Epoch: 39, CMI Accuracy: 0.7040,Time consumed:1.11s
+
+epoch 40 training time consumed: 29.16s
+Test set: Epoch: 40, CMI Accuracy: 0.7082,Time consumed:1.00s
+
+epoch 41 training time consumed: 29.14s
+Test set: Epoch: 41, CMI Accuracy: 0.7048,Time consumed:1.12s
+
+epoch 42 training time consumed: 29.08s
+Test set: Epoch: 42, CMI Accuracy: 0.7083,Time consumed:1.08s
+
+epoch 43 training time consumed: 29.10s
+Test set: Epoch: 43, CMI Accuracy: 0.7094,Time consumed:1.06s
+
+epoch 44 training time consumed: 29.09s
+Test set: Epoch: 44, CMI Accuracy: 0.7099,Time consumed:1.08s
+
+epoch 45 training time consumed: 29.09s
+Test set: Epoch: 45, CMI Accuracy: 0.7085,Time consumed:1.06s
+
+epoch 46 training time consumed: 29.10s
+Test set: Epoch: 46, CMI Accuracy: 0.7093,Time consumed:1.11s
+
+epoch 47 training time consumed: 29.16s
+Test set: Epoch: 47, CMI Accuracy: 0.7061,Time consumed:1.05s
+
+epoch 48 training time consumed: 29.08s
+Test set: Epoch: 48, CMI Accuracy: 0.7064,Time consumed:1.07s
+
+epoch 49 training time consumed: 29.09s
+Test set: Epoch: 49, CMI Accuracy: 0.7104,Time consumed:1.05s
+
+epoch 50 training time consumed: 29.05s
+Test set: Epoch: 50, CMI Accuracy: 0.7099,Time consumed:1.02s
+
+epoch 51 training time consumed: 29.08s
+Test set: Epoch: 51, CMI Accuracy: 0.7048,Time consumed:1.07s
+
+epoch 52 training time consumed: 29.09s
+Test set: Epoch: 52, CMI Accuracy: 0.7060,Time consumed:1.06s
+
+epoch 53 training time consumed: 29.10s
+Test set: Epoch: 53, CMI Accuracy: 0.7093,Time consumed:1.10s
+
+epoch 54 training time consumed: 29.14s
+Test set: Epoch: 54, CMI Accuracy: 0.7076,Time consumed:1.06s
+
+epoch 55 training time consumed: 29.18s
+Test set: Epoch: 55, CMI Accuracy: 0.7067,Time consumed:1.04s
+
+epoch 56 training time consumed: 28.99s
+Test set: Epoch: 56, CMI Accuracy: 0.7085,Time consumed:1.04s
+
+epoch 57 training time consumed: 29.09s
+Test set: Epoch: 57, CMI Accuracy: 0.7103,Time consumed:1.04s
+
+epoch 58 training time consumed: 35.09s
+Test set: Epoch: 58, CMI Accuracy: 0.7111,Time consumed:1.07s
+
+epoch 59 training time consumed: 29.51s
+Test set: Epoch: 59, CMI Accuracy: 0.7086,Time consumed:1.07s
+
+epoch 60 training time consumed: 29.04s
+Test set: Epoch: 60, CMI Accuracy: 0.7148,Time consumed:1.09s
+
+epoch 61 training time consumed: 29.08s
+Test set: Epoch: 61, CMI Accuracy: 0.7085,Time consumed:1.12s
+
+epoch 62 training time consumed: 29.14s
+Test set: Epoch: 62, CMI Accuracy: 0.7103,Time consumed:1.11s
+
+epoch 63 training time consumed: 29.09s
+Test set: Epoch: 63, CMI Accuracy: 0.7055,Time consumed:1.13s
+
+epoch 64 training time consumed: 29.15s
+Test set: Epoch: 64, CMI Accuracy: 0.7016,Time consumed:1.00s
+
+epoch 65 training time consumed: 29.05s
+Test set: Epoch: 65, CMI Accuracy: 0.7070,Time consumed:1.06s
+
+epoch 66 training time consumed: 29.08s
+Test set: Epoch: 66, CMI Accuracy: 0.7038,Time consumed:1.07s
+
+epoch 67 training time consumed: 29.10s
+Test set: Epoch: 67, CMI Accuracy: 0.7075,Time consumed:1.02s
+
+epoch 68 training time consumed: 29.11s
+Test set: Epoch: 68, CMI Accuracy: 0.7094,Time consumed:1.02s
+
+epoch 69 training time consumed: 29.03s
+Test set: Epoch: 69, CMI Accuracy: 0.7141,Time consumed:1.12s
+
+epoch 70 training time consumed: 29.58s
+Test set: Epoch: 70, CMI Accuracy: 0.7115,Time consumed:1.10s
+
+epoch 71 training time consumed: 29.07s
+Test set: Epoch: 71, CMI Accuracy: 0.7058,Time consumed:1.14s
+
+epoch 72 training time consumed: 29.12s
+Test set: Epoch: 72, CMI Accuracy: 0.7088,Time consumed:1.07s
+
+epoch 73 training time consumed: 29.25s
+Test set: Epoch: 73, CMI Accuracy: 0.7064,Time consumed:1.07s
+
+epoch 74 training time consumed: 29.11s
+Test set: Epoch: 74, CMI Accuracy: 0.7058,Time consumed:1.10s
+
+epoch 75 training time consumed: 29.21s
+Test set: Epoch: 75, CMI Accuracy: 0.7094,Time consumed:1.01s
+
+epoch 76 training time consumed: 29.17s
+Test set: Epoch: 76, CMI Accuracy: 0.7088,Time consumed:1.03s
+
+epoch 77 training time consumed: 29.14s
+Test set: Epoch: 77, CMI Accuracy: 0.7135,Time consumed:1.10s
+
+epoch 78 training time consumed: 29.09s
+Test set: Epoch: 78, CMI Accuracy: 0.7086,Time consumed:1.03s
+
+epoch 79 training time consumed: 30.06s
+Test set: Epoch: 79, CMI Accuracy: 0.7056,Time consumed:1.15s
+
+epoch 80 training time consumed: 31.87s
+Test set: Epoch: 80, CMI Accuracy: 0.7085,Time consumed:1.03s
+
+epoch 81 training time consumed: 29.15s
+Test set: Epoch: 81, CMI Accuracy: 0.7064,Time consumed:1.04s
+
+epoch 82 training time consumed: 29.17s
+Test set: Epoch: 82, CMI Accuracy: 0.7069,Time consumed:1.04s
+
+epoch 83 training time consumed: 29.17s
+Test set: Epoch: 83, CMI Accuracy: 0.7115,Time consumed:1.11s
+
+epoch 84 training time consumed: 29.12s
+Test set: Epoch: 84, CMI Accuracy: 0.7087,Time consumed:1.10s
+
+epoch 85 training time consumed: 29.11s
+Test set: Epoch: 85, CMI Accuracy: 0.7124,Time consumed:1.10s
+
+epoch 86 training time consumed: 29.16s
+Test set: Epoch: 86, CMI Accuracy: 0.7106,Time consumed:1.12s
+
+epoch 87 training time consumed: 29.07s
+Test set: Epoch: 87, CMI Accuracy: 0.7082,Time consumed:1.03s
+
+epoch 88 training time consumed: 29.04s
+Test set: Epoch: 88, CMI Accuracy: 0.7138,Time consumed:1.02s
+
+epoch 89 training time consumed: 30.59s
+Test set: Epoch: 89, CMI Accuracy: 0.7140,Time consumed:1.08s
+
+epoch 90 training time consumed: 29.25s
+Test set: Epoch: 90, CMI Accuracy: 0.7131,Time consumed:1.12s
+
+epoch 91 training time consumed: 29.11s
+Test set: Epoch: 91, CMI Accuracy: 0.7079,Time consumed:1.07s
+
+epoch 92 training time consumed: 29.09s
+Test set: Epoch: 92, CMI Accuracy: 0.7086,Time consumed:1.08s
+
+epoch 93 training time consumed: 29.43s
+Test set: Epoch: 93, CMI Accuracy: 0.7189,Time consumed:1.04s
+
+epoch 94 training time consumed: 29.10s
+Test set: Epoch: 94, CMI Accuracy: 0.7162,Time consumed:1.11s
+
+epoch 95 training time consumed: 29.15s
+Test set: Epoch: 95, CMI Accuracy: 0.7161,Time consumed:1.07s
+
+epoch 96 training time consumed: 29.11s
+Test set: Epoch: 96, CMI Accuracy: 0.7119,Time consumed:1.20s
+
+epoch 97 training time consumed: 29.11s
+Test set: Epoch: 97, CMI Accuracy: 0.7091,Time consumed:1.07s
+
+epoch 98 training time consumed: 29.03s
+Test set: Epoch: 98, CMI Accuracy: 0.7168,Time consumed:1.07s
+
+epoch 99 training time consumed: 29.05s
+Test set: Epoch: 99, CMI Accuracy: 0.7126,Time consumed:1.08s
+
+epoch 100 training time consumed: 29.06s
+Test set: Epoch: 100, CMI Accuracy: 0.7097,Time consumed:1.03s
+
+epoch 101 training time consumed: 29.12s
+Test set: Epoch: 101, CMI Accuracy: 0.7077,Time consumed:1.04s
+
+epoch 102 training time consumed: 29.09s
+Test set: Epoch: 102, CMI Accuracy: 0.7173,Time consumed:1.09s
+
+epoch 103 training time consumed: 29.07s
+Test set: Epoch: 103, CMI Accuracy: 0.7101,Time consumed:1.07s
+
+epoch 104 training time consumed: 29.05s
+Test set: Epoch: 104, CMI Accuracy: 0.7167,Time consumed:1.02s
+
+epoch 105 training time consumed: 29.14s
+Test set: Epoch: 105, CMI Accuracy: 0.7120,Time consumed:1.04s
+
+epoch 106 training time consumed: 29.12s
+Test set: Epoch: 106, CMI Accuracy: 0.7099,Time consumed:1.12s
+
+epoch 107 training time consumed: 29.07s
+Test set: Epoch: 107, CMI Accuracy: 0.7124,Time consumed:1.10s
+
+epoch 108 training time consumed: 29.03s
+Test set: Epoch: 108, CMI Accuracy: 0.7160,Time consumed:1.07s
+
+epoch 109 training time consumed: 29.04s
+Test set: Epoch: 109, CMI Accuracy: 0.7131,Time consumed:1.10s
+
+epoch 110 training time consumed: 29.05s
+Test set: Epoch: 110, CMI Accuracy: 0.7191,Time consumed:1.12s
+
+epoch 111 training time consumed: 29.14s
+Test set: Epoch: 111, CMI Accuracy: 0.7193,Time consumed:1.07s
+
+epoch 112 training time consumed: 29.15s
+Test set: Epoch: 112, CMI Accuracy: 0.7155,Time consumed:1.05s
+
+epoch 113 training time consumed: 29.17s
+Test set: Epoch: 113, CMI Accuracy: 0.7103,Time consumed:1.07s
+
+epoch 114 training time consumed: 29.08s
+Test set: Epoch: 114, CMI Accuracy: 0.7158,Time consumed:1.03s
+
+epoch 115 training time consumed: 29.76s
+Test set: Epoch: 115, CMI Accuracy: 0.7126,Time consumed:1.07s
+
+epoch 116 training time consumed: 29.01s
+Test set: Epoch: 116, CMI Accuracy: 0.7150,Time consumed:1.03s
+
+epoch 117 training time consumed: 29.09s
+Test set: Epoch: 117, CMI Accuracy: 0.7129,Time consumed:1.04s
+
+epoch 118 training time consumed: 29.11s
+Test set: Epoch: 118, CMI Accuracy: 0.7119,Time consumed:1.15s
+
+epoch 119 training time consumed: 29.09s
+Test set: Epoch: 119, CMI Accuracy: 0.7168,Time consumed:1.05s
+
+epoch 120 training time consumed: 29.05s
+Test set: Epoch: 120, CMI Accuracy: 0.7169,Time consumed:1.05s
+
+epoch 121 training time consumed: 29.15s
+Test set: Epoch: 121, CMI Accuracy: 0.7168,Time consumed:1.03s
+
+epoch 122 training time consumed: 29.09s
+Test set: Epoch: 122, CMI Accuracy: 0.7121,Time consumed:1.04s
+
+epoch 123 training time consumed: 29.05s
+Test set: Epoch: 123, CMI Accuracy: 0.7144,Time consumed:1.04s
+
+epoch 124 training time consumed: 29.24s
+Test set: Epoch: 124, CMI Accuracy: 0.7145,Time consumed:1.06s
+
+epoch 125 training time consumed: 29.11s
+Test set: Epoch: 125, CMI Accuracy: 0.7186,Time consumed:1.04s
+
+epoch 126 training time consumed: 29.10s
+Test set: Epoch: 126, CMI Accuracy: 0.7159,Time consumed:1.06s
+
+epoch 127 training time consumed: 29.06s
+Test set: Epoch: 127, CMI Accuracy: 0.7137,Time consumed:1.07s
+
+epoch 128 training time consumed: 29.09s
+Test set: Epoch: 128, CMI Accuracy: 0.5082,Time consumed:1.03s
+
+epoch 129 training time consumed: 29.13s
+Test set: Epoch: 129, CMI Accuracy: 0.7174,Time consumed:1.05s
+
+epoch 130 training time consumed: 29.19s
+Test set: Epoch: 130, CMI Accuracy: 0.7164,Time consumed:1.09s
+
+epoch 131 training time consumed: 29.10s
+Test set: Epoch: 131, CMI Accuracy: 0.7143,Time consumed:1.08s
+
+epoch 132 training time consumed: 29.08s
+Test set: Epoch: 132, CMI Accuracy: 0.7136,Time consumed:1.09s
+
+epoch 133 training time consumed: 29.05s
+Test set: Epoch: 133, CMI Accuracy: 0.7057,Time consumed:1.07s
+
+epoch 134 training time consumed: 29.16s
+Test set: Epoch: 134, CMI Accuracy: 0.7072,Time consumed:1.06s
+
+epoch 135 training time consumed: 29.12s
+Test set: Epoch: 135, CMI Accuracy: 0.7177,Time consumed:1.09s
+
+epoch 136 training time consumed: 29.12s
+Test set: Epoch: 136, CMI Accuracy: 0.2525,Time consumed:1.05s
+
+epoch 137 training time consumed: 29.19s
+Test set: Epoch: 137, CMI Accuracy: 0.7138,Time consumed:1.12s
+
+epoch 138 training time consumed: 29.12s
+Test set: Epoch: 138, CMI Accuracy: 0.7090,Time consumed:1.03s
+
+epoch 139 training time consumed: 29.09s
+Test set: Epoch: 139, CMI Accuracy: 0.7167,Time consumed:1.13s
+
+epoch 140 training time consumed: 29.10s
+Test set: Epoch: 140, CMI Accuracy: 0.7131,Time consumed:1.06s
+
+epoch 141 training time consumed: 29.13s
+Test set: Epoch: 141, CMI Accuracy: 0.7110,Time consumed:1.09s
+
+epoch 142 training time consumed: 29.13s
+Test set: Epoch: 142, CMI Accuracy: 0.7028,Time consumed:1.09s
+
+epoch 143 training time consumed: 29.82s
+Test set: Epoch: 143, CMI Accuracy: 0.7029,Time consumed:1.09s
+
+epoch 144 training time consumed: 29.12s
+Test set: Epoch: 144, CMI Accuracy: 0.7166,Time consumed:1.05s
+
+epoch 145 training time consumed: 29.37s
+Test set: Epoch: 145, CMI Accuracy: 0.7107,Time consumed:1.16s
+
+epoch 146 training time consumed: 29.14s
+Test set: Epoch: 146, CMI Accuracy: 0.7152,Time consumed:1.13s
+
+epoch 147 training time consumed: 29.07s
+Test set: Epoch: 147, CMI Accuracy: 0.7174,Time consumed:1.09s
+
+epoch 148 training time consumed: 29.09s
+Test set: Epoch: 148, CMI Accuracy: 0.7090,Time consumed:0.99s
+
+epoch 149 training time consumed: 29.09s
+Test set: Epoch: 149, CMI Accuracy: 0.7112,Time consumed:1.07s
+
+epoch 150 training time consumed: 29.19s
+Test set: Epoch: 150, CMI Accuracy: 0.7163,Time consumed:1.07s
+
+epoch 151 training time consumed: 29.07s
+Test set: Epoch: 151, CMI Accuracy: 0.7153,Time consumed:1.16s
+
+epoch 152 training time consumed: 29.09s
+Test set: Epoch: 152, CMI Accuracy: 0.7097,Time consumed:1.05s
+
+epoch 153 training time consumed: 29.13s
+Test set: Epoch: 153, CMI Accuracy: 0.7106,Time consumed:1.07s
+
+epoch 154 training time consumed: 39.69s
+Test set: Epoch: 154, CMI Accuracy: 0.7149,Time consumed:1.16s
+
+epoch 155 training time consumed: 29.49s
+Test set: Epoch: 155, CMI Accuracy: 0.7071,Time consumed:1.16s
+
+epoch 156 training time consumed: 29.41s
+Test set: Epoch: 156, CMI Accuracy: 0.7029,Time consumed:1.15s
+
+epoch 157 training time consumed: 29.20s
+Test set: Epoch: 157, CMI Accuracy: 0.7120,Time consumed:1.08s
+
+epoch 158 training time consumed: 29.44s
+Test set: Epoch: 158, CMI Accuracy: 0.7112,Time consumed:1.15s
+
+epoch 159 training time consumed: 29.42s
+Test set: Epoch: 159, CMI Accuracy: 0.7042,Time consumed:1.14s
+
+epoch 160 training time consumed: 29.50s
+Test set: Epoch: 160, CMI Accuracy: 0.7030,Time consumed:1.14s
+
+epoch 161 training time consumed: 29.53s
+Test set: Epoch: 161, CMI Accuracy: 0.7099,Time consumed:1.11s
+
+epoch 162 training time consumed: 29.48s
+Test set: Epoch: 162, CMI Accuracy: 0.7025,Time consumed:1.18s
+
+epoch 163 training time consumed: 29.45s
+Test set: Epoch: 163, CMI Accuracy: 0.7070,Time consumed:1.16s
+
+epoch 164 training time consumed: 29.47s
+Test set: Epoch: 164, CMI Accuracy: 0.7003,Time consumed:1.08s
+
+epoch 165 training time consumed: 29.46s
+Test set: Epoch: 165, CMI Accuracy: 0.7113,Time consumed:1.06s
+
+epoch 166 training time consumed: 29.52s
+Test set: Epoch: 166, CMI Accuracy: 0.7008,Time consumed:1.12s
+
+epoch 167 training time consumed: 29.46s
+Test set: Epoch: 167, CMI Accuracy: 0.6959,Time consumed:1.10s
+
+epoch 168 training time consumed: 29.47s
+Test set: Epoch: 168, CMI Accuracy: 0.6979,Time consumed:1.16s
+
+epoch 169 training time consumed: 29.42s
+Test set: Epoch: 169, CMI Accuracy: 0.6931,Time consumed:1.12s
+
+epoch 170 training time consumed: 29.52s
+Test set: Epoch: 170, CMI Accuracy: 0.6977,Time consumed:1.13s
+
+epoch 171 training time consumed: 29.41s
+Test set: Epoch: 171, CMI Accuracy: 0.7022,Time consumed:1.10s
+
+epoch 172 training time consumed: 36.02s
+Test set: Epoch: 172, CMI Accuracy: 0.6950,Time consumed:1.11s
+
+epoch 173 training time consumed: 30.52s
+Test set: Epoch: 173, CMI Accuracy: 0.6954,Time consumed:1.14s
+
+epoch 174 training time consumed: 29.50s
+Test set: Epoch: 174, CMI Accuracy: 0.6863,Time consumed:1.14s
+
+epoch 175 training time consumed: 29.51s
+Test set: Epoch: 175, CMI Accuracy: 0.6616,Time consumed:1.14s
+
+epoch 176 training time consumed: 29.46s
+Test set: Epoch: 176, CMI Accuracy: 0.6888,Time consumed:1.07s
+
+epoch 177 training time consumed: 29.46s
+Test set: Epoch: 177, CMI Accuracy: 0.6909,Time consumed:1.05s
+
+epoch 178 training time consumed: 29.61s
+Test set: Epoch: 178, CMI Accuracy: 0.6907,Time consumed:1.14s
+
+epoch 179 training time consumed: 29.47s
+Test set: Epoch: 179, CMI Accuracy: 0.6570,Time consumed:1.08s
+
+epoch 180 training time consumed: 29.48s
+Test set: Epoch: 180, CMI Accuracy: 0.6846,Time consumed:1.09s
+
+epoch 181 training time consumed: 29.54s
+Test set: Epoch: 181, CMI Accuracy: 0.6793,Time consumed:1.18s
+
+epoch 182 training time consumed: 29.43s
+Test set: Epoch: 182, CMI Accuracy: 0.6710,Time consumed:1.16s
+
+epoch 183 training time consumed: 29.53s
+Test set: Epoch: 183, CMI Accuracy: 0.6489,Time consumed:1.09s
+
+epoch 184 training time consumed: 29.52s
+Test set: Epoch: 184, CMI Accuracy: 0.6655,Time consumed:1.18s
+
+epoch 185 training time consumed: 29.57s
+Test set: Epoch: 185, CMI Accuracy: 0.6643,Time consumed:1.16s
+
+epoch 186 training time consumed: 29.49s
+Test set: Epoch: 186, CMI Accuracy: 0.6539,Time consumed:1.08s
+
+epoch 187 training time consumed: 29.52s
+Test set: Epoch: 187, CMI Accuracy: 0.6476,Time consumed:1.11s
+
+epoch 188 training time consumed: 29.56s
+Test set: Epoch: 188, CMI Accuracy: 0.6509,Time consumed:1.12s
+
+epoch 189 training time consumed: 29.54s
+Test set: Epoch: 189, CMI Accuracy: 0.6326,Time consumed:1.12s
+
+epoch 190 training time consumed: 29.61s
+Test set: Epoch: 190, CMI Accuracy: 0.6064,Time consumed:1.15s
+
+epoch 191 training time consumed: 29.50s
+Test set: Epoch: 191, CMI Accuracy: 0.6143,Time consumed:1.04s
+
+epoch 192 training time consumed: 29.91s
+Test set: Epoch: 192, CMI Accuracy: 0.5989,Time consumed:1.14s
+
+epoch 193 training time consumed: 29.79s
+Test set: Epoch: 193, CMI Accuracy: 0.5311,Time consumed:1.12s
+
+epoch 194 training time consumed: 29.49s
+Test set: Epoch: 194, CMI Accuracy: 0.5553,Time consumed:1.13s
+
+epoch 195 training time consumed: 29.70s
+Test set: Epoch: 195, CMI Accuracy: 0.5302,Time consumed:1.19s
+
+epoch 196 training time consumed: 29.63s
+Test set: Epoch: 196, CMI Accuracy: 0.5198,Time consumed:1.17s
+
+epoch 197 training time consumed: 29.83s
+Test set: Epoch: 197, CMI Accuracy: 0.4841,Time consumed:1.19s
+
+epoch 198 training time consumed: 29.58s
+Test set: Epoch: 198, CMI Accuracy: 0.4754,Time consumed:1.13s
+
+epoch 199 training time consumed: 29.48s
+Test set: Epoch: 199, CMI Accuracy: 0.4561,Time consumed:1.12s
+
+epoch 200 training time consumed: 29.68s
+Test set: Epoch: 200, CMI Accuracy: 0.4536,Time consumed:1.19s
+
+Settings:  0.1 0.07 Best CMI scc: 0.7193
+1.0 0.1 0.1
+Files already downloaded and verified
+Files already downloaded and verified
+epoch 1 training time consumed: 30.27s
+Test set: Epoch: 1, CMI Accuracy: 0.0592,Time consumed:1.07s
+
+epoch 2 training time consumed: 29.50s
+Test set: Epoch: 2, CMI Accuracy: 0.0850,Time consumed:1.26s
+
+epoch 3 training time consumed: 30.08s
+Test set: Epoch: 3, CMI Accuracy: 0.1057,Time consumed:1.07s
+
+epoch 4 training time consumed: 29.74s
+Test set: Epoch: 4, CMI Accuracy: 0.1816,Time consumed:1.19s
+
+epoch 5 training time consumed: 29.54s
+Test set: Epoch: 5, CMI Accuracy: 0.2523,Time consumed:1.10s
+
+epoch 6 training time consumed: 29.62s
+Test set: Epoch: 6, CMI Accuracy: 0.3291,Time consumed:1.12s
+
+epoch 7 training time consumed: 29.49s
+Test set: Epoch: 7, CMI Accuracy: 0.4041,Time consumed:1.06s
+
+epoch 8 training time consumed: 29.53s
+Test set: Epoch: 8, CMI Accuracy: 0.4441,Time consumed:1.09s
+
+epoch 9 training time consumed: 35.63s
+Test set: Epoch: 9, CMI Accuracy: 0.4727,Time consumed:1.05s
+
+epoch 10 training time consumed: 29.78s
+Test set: Epoch: 10, CMI Accuracy: 0.5110,Time consumed:1.08s
+
+epoch 11 training time consumed: 29.54s
+Test set: Epoch: 11, CMI Accuracy: 0.5259,Time consumed:1.07s
+
+epoch 12 training time consumed: 29.49s
+Test set: Epoch: 12, CMI Accuracy: 0.5677,Time consumed:1.14s
+
+epoch 13 training time consumed: 29.49s
+Test set: Epoch: 13, CMI Accuracy: 0.5738,Time consumed:1.11s
+
+epoch 14 training time consumed: 29.60s
+Test set: Epoch: 14, CMI Accuracy: 0.5921,Time consumed:1.10s
+
+epoch 15 training time consumed: 29.48s
+Test set: Epoch: 15, CMI Accuracy: 0.6031,Time consumed:1.12s
+
+epoch 16 training time consumed: 29.72s
+Test set: Epoch: 16, CMI Accuracy: 0.6225,Time consumed:1.11s
+
+epoch 17 training time consumed: 29.68s
+Test set: Epoch: 17, CMI Accuracy: 0.6322,Time consumed:1.19s
+
+epoch 18 training time consumed: 29.53s
+Test set: Epoch: 18, CMI Accuracy: 0.6346,Time consumed:1.13s
+
+epoch 19 training time consumed: 29.48s
+Test set: Epoch: 19, CMI Accuracy: 0.6513,Time consumed:1.12s
+
+epoch 20 training time consumed: 29.53s
+Test set: Epoch: 20, CMI Accuracy: 0.6501,Time consumed:1.18s
+
+epoch 21 training time consumed: 29.47s
+Test set: Epoch: 21, CMI Accuracy: 0.6553,Time consumed:1.09s
+
+epoch 22 training time consumed: 29.48s
+Test set: Epoch: 22, CMI Accuracy: 0.6579,Time consumed:1.13s
+
+epoch 23 training time consumed: 29.48s
+Test set: Epoch: 23, CMI Accuracy: 0.6708,Time consumed:1.08s
+
+epoch 24 training time consumed: 29.54s
+Test set: Epoch: 24, CMI Accuracy: 0.6755,Time consumed:1.11s
+
+epoch 25 training time consumed: 29.44s
+Test set: Epoch: 25, CMI Accuracy: 0.6769,Time consumed:1.12s
+
+epoch 26 training time consumed: 29.52s
+Test set: Epoch: 26, CMI Accuracy: 0.6771,Time consumed:1.21s
+
+epoch 27 training time consumed: 29.64s
+Test set: Epoch: 27, CMI Accuracy: 0.6860,Time consumed:1.13s
+
+epoch 28 training time consumed: 29.61s
+Test set: Epoch: 28, CMI Accuracy: 0.6807,Time consumed:1.13s
+
+epoch 29 training time consumed: 29.57s
+Test set: Epoch: 29, CMI Accuracy: 0.6865,Time consumed:1.13s
+
+epoch 30 training time consumed: 29.46s
+Test set: Epoch: 30, CMI Accuracy: 0.6914,Time consumed:1.09s
+
+epoch 31 training time consumed: 29.63s
+Test set: Epoch: 31, CMI Accuracy: 0.6940,Time consumed:1.17s
+
+epoch 32 training time consumed: 29.58s
+Test set: Epoch: 32, CMI Accuracy: 0.6978,Time consumed:1.11s
+
+epoch 33 training time consumed: 33.97s
+Test set: Epoch: 33, CMI Accuracy: 0.7064,Time consumed:1.18s
+
+epoch 34 training time consumed: 29.54s
+Test set: Epoch: 34, CMI Accuracy: 0.6960,Time consumed:1.14s
+
+epoch 35 training time consumed: 29.54s
+Test set: Epoch: 35, CMI Accuracy: 0.6993,Time consumed:1.12s
+
+epoch 36 training time consumed: 29.58s
+Test set: Epoch: 36, CMI Accuracy: 0.7030,Time consumed:1.13s
+
+epoch 37 training time consumed: 29.49s
+Test set: Epoch: 37, CMI Accuracy: 0.7018,Time consumed:1.10s
+
+epoch 38 training time consumed: 29.66s
+Test set: Epoch: 38, CMI Accuracy: 0.6992,Time consumed:1.16s
+
+epoch 39 training time consumed: 29.62s
+Test set: Epoch: 39, CMI Accuracy: 0.7030,Time consumed:1.17s
+
+epoch 40 training time consumed: 29.54s
+Test set: Epoch: 40, CMI Accuracy: 0.7091,Time consumed:1.11s
+
+epoch 41 training time consumed: 29.55s
+Test set: Epoch: 41, CMI Accuracy: 0.7066,Time consumed:1.17s
+
+epoch 42 training time consumed: 29.78s
+Test set: Epoch: 42, CMI Accuracy: 0.7093,Time consumed:1.11s
+
+epoch 43 training time consumed: 29.63s
+Test set: Epoch: 43, CMI Accuracy: 0.7061,Time consumed:1.18s
+
+epoch 44 training time consumed: 31.07s
+Test set: Epoch: 44, CMI Accuracy: 0.7114,Time consumed:1.11s
+
+epoch 45 training time consumed: 40.91s
+Test set: Epoch: 45, CMI Accuracy: 0.7064,Time consumed:1.23s
+
+epoch 46 training time consumed: 29.67s
+Test set: Epoch: 46, CMI Accuracy: 0.7082,Time consumed:1.10s
+
+epoch 47 training time consumed: 29.75s
+Test set: Epoch: 47, CMI Accuracy: 0.7099,Time consumed:1.12s
+
+epoch 48 training time consumed: 32.02s
+Test set: Epoch: 48, CMI Accuracy: 0.7086,Time consumed:1.12s
+
+epoch 49 training time consumed: 29.68s
+Test set: Epoch: 49, CMI Accuracy: 0.7157,Time consumed:1.14s
+
+epoch 50 training time consumed: 29.28s
+Test set: Epoch: 50, CMI Accuracy: 0.7115,Time consumed:1.03s
+
+epoch 51 training time consumed: 29.17s
+Test set: Epoch: 51, CMI Accuracy: 0.7135,Time consumed:1.03s
+
+epoch 52 training time consumed: 29.32s
+Test set: Epoch: 52, CMI Accuracy: 0.7132,Time consumed:1.09s
+
+epoch 53 training time consumed: 29.15s
+Test set: Epoch: 53, CMI Accuracy: 0.7050,Time consumed:1.15s
+
+epoch 54 training time consumed: 29.24s
+Test set: Epoch: 54, CMI Accuracy: 0.7092,Time consumed:1.03s
+
+epoch 55 training time consumed: 29.08s
+Test set: Epoch: 55, CMI Accuracy: 0.7136,Time consumed:1.10s
+
+epoch 56 training time consumed: 29.12s
+Test set: Epoch: 56, CMI Accuracy: 0.7131,Time consumed:0.99s
+
+epoch 57 training time consumed: 29.10s
+Test set: Epoch: 57, CMI Accuracy: 0.7129,Time consumed:1.14s
+
+epoch 58 training time consumed: 29.11s
+Test set: Epoch: 58, CMI Accuracy: 0.7149,Time consumed:1.07s
+
+epoch 59 training time consumed: 29.12s
+Test set: Epoch: 59, CMI Accuracy: 0.7143,Time consumed:1.11s
+
+epoch 60 training time consumed: 29.10s
+Test set: Epoch: 60, CMI Accuracy: 0.7146,Time consumed:1.10s
+
+epoch 61 training time consumed: 29.12s
+Test set: Epoch: 61, CMI Accuracy: 0.7089,Time consumed:1.07s
+
+epoch 62 training time consumed: 29.18s
+Test set: Epoch: 62, CMI Accuracy: 0.7106,Time consumed:1.05s
+
+epoch 63 training time consumed: 29.20s
+Test set: Epoch: 63, CMI Accuracy: 0.7101,Time consumed:1.03s
+
+epoch 64 training time consumed: 29.13s
+Test set: Epoch: 64, CMI Accuracy: 0.7159,Time consumed:1.11s
+
+epoch 65 training time consumed: 29.19s
+Test set: Epoch: 65, CMI Accuracy: 0.7079,Time consumed:1.09s
+
+epoch 66 training time consumed: 29.29s
+Test set: Epoch: 66, CMI Accuracy: 0.7132,Time consumed:1.09s
+
+epoch 67 training time consumed: 29.21s
+Test set: Epoch: 67, CMI Accuracy: 0.7126,Time consumed:1.09s
+
+epoch 68 training time consumed: 29.10s
+Test set: Epoch: 68, CMI Accuracy: 0.7133,Time consumed:1.07s
+
+epoch 69 training time consumed: 29.12s
+Test set: Epoch: 69, CMI Accuracy: 0.7133,Time consumed:1.20s
+
+epoch 70 training time consumed: 29.12s
+Test set: Epoch: 70, CMI Accuracy: 0.7104,Time consumed:1.07s
+
+epoch 71 training time consumed: 29.17s
+Test set: Epoch: 71, CMI Accuracy: 0.7148,Time consumed:1.10s
+
+epoch 72 training time consumed: 29.07s
+Test set: Epoch: 72, CMI Accuracy: 0.7124,Time consumed:1.13s
+
+epoch 73 training time consumed: 29.54s
+Test set: Epoch: 73, CMI Accuracy: 0.7134,Time consumed:1.07s
+
+epoch 74 training time consumed: 29.08s
+Test set: Epoch: 74, CMI Accuracy: 0.7084,Time consumed:1.06s
+
+epoch 75 training time consumed: 29.11s
+Test set: Epoch: 75, CMI Accuracy: 0.7080,Time consumed:1.05s
+
+epoch 76 training time consumed: 29.24s
+Test set: Epoch: 76, CMI Accuracy: 0.7108,Time consumed:1.11s
+
+epoch 77 training time consumed: 29.04s
+Test set: Epoch: 77, CMI Accuracy: 0.7137,Time consumed:1.06s
+
+epoch 78 training time consumed: 29.03s
+Test set: Epoch: 78, CMI Accuracy: 0.7122,Time consumed:1.04s
+
+epoch 79 training time consumed: 29.14s
+Test set: Epoch: 79, CMI Accuracy: 0.7081,Time consumed:1.08s
+
+epoch 80 training time consumed: 29.21s
+Test set: Epoch: 80, CMI Accuracy: 0.7086,Time consumed:1.10s
+
+epoch 81 training time consumed: 29.24s
+Test set: Epoch: 81, CMI Accuracy: 0.7137,Time consumed:1.03s
+
+epoch 82 training time consumed: 29.12s
+Test set: Epoch: 82, CMI Accuracy: 0.7077,Time consumed:1.03s
+
+epoch 83 training time consumed: 33.95s
+Test set: Epoch: 83, CMI Accuracy: 0.7112,Time consumed:1.03s
+
+epoch 84 training time consumed: 32.19s
+Test set: Epoch: 84, CMI Accuracy: 0.7102,Time consumed:1.08s
+
+epoch 85 training time consumed: 31.08s
+Test set: Epoch: 85, CMI Accuracy: 0.7084,Time consumed:1.07s
+
+epoch 86 training time consumed: 29.08s
+Test set: Epoch: 86, CMI Accuracy: 0.7072,Time consumed:1.03s
+
+epoch 87 training time consumed: 29.21s
+Test set: Epoch: 87, CMI Accuracy: 0.7087,Time consumed:1.02s
+
+epoch 88 training time consumed: 29.14s
+Test set: Epoch: 88, CMI Accuracy: 0.7106,Time consumed:1.10s
+
+epoch 89 training time consumed: 29.22s
+Test set: Epoch: 89, CMI Accuracy: 0.7092,Time consumed:1.08s
+
+epoch 90 training time consumed: 29.41s
+Test set: Epoch: 90, CMI Accuracy: 0.7110,Time consumed:1.07s
+
+epoch 91 training time consumed: 29.24s
+Test set: Epoch: 91, CMI Accuracy: 0.7055,Time consumed:1.07s
+
+epoch 92 training time consumed: 29.12s
+Test set: Epoch: 92, CMI Accuracy: 0.7069,Time consumed:1.07s
+
+epoch 93 training time consumed: 29.11s
+Test set: Epoch: 93, CMI Accuracy: 0.7078,Time consumed:1.08s
+
+epoch 94 training time consumed: 29.10s
+Test set: Epoch: 94, CMI Accuracy: 0.7111,Time consumed:1.05s
+
+epoch 95 training time consumed: 29.11s
+Test set: Epoch: 95, CMI Accuracy: 0.7069,Time consumed:1.08s
+
+epoch 96 training time consumed: 29.13s
+Test set: Epoch: 96, CMI Accuracy: 0.7080,Time consumed:1.10s
+
+epoch 97 training time consumed: 29.18s
+Test set: Epoch: 97, CMI Accuracy: 0.7082,Time consumed:1.07s
+
+epoch 98 training time consumed: 29.12s
+Test set: Epoch: 98, CMI Accuracy: 0.7139,Time consumed:1.04s
+
+epoch 99 training time consumed: 29.16s
+Test set: Epoch: 99, CMI Accuracy: 0.7073,Time consumed:1.18s
+
+epoch 100 training time consumed: 29.45s
+Test set: Epoch: 100, CMI Accuracy: 0.7081,Time consumed:1.13s
+
+epoch 101 training time consumed: 29.14s
+Test set: Epoch: 101, CMI Accuracy: 0.7115,Time consumed:1.11s
+
+epoch 102 training time consumed: 29.27s
+Test set: Epoch: 102, CMI Accuracy: 0.7125,Time consumed:1.04s
+
+epoch 103 training time consumed: 29.27s
+Test set: Epoch: 103, CMI Accuracy: 0.7126,Time consumed:1.00s
+
+epoch 104 training time consumed: 29.17s
+Test set: Epoch: 104, CMI Accuracy: 0.7133,Time consumed:1.08s
+
+epoch 105 training time consumed: 29.16s
+Test set: Epoch: 105, CMI Accuracy: 0.7123,Time consumed:1.15s
+
+epoch 106 training time consumed: 29.08s
+Test set: Epoch: 106, CMI Accuracy: 0.7114,Time consumed:1.05s
+
+epoch 107 training time consumed: 29.24s
+Test set: Epoch: 107, CMI Accuracy: 0.7095,Time consumed:1.16s
+
+epoch 108 training time consumed: 29.19s
+Test set: Epoch: 108, CMI Accuracy: 0.7119,Time consumed:1.00s
+
+epoch 109 training time consumed: 29.25s
+Test set: Epoch: 109, CMI Accuracy: 0.7102,Time consumed:1.06s
+
+epoch 110 training time consumed: 29.07s
+Test set: Epoch: 110, CMI Accuracy: 0.7119,Time consumed:1.08s
+
+epoch 111 training time consumed: 29.09s
+Test set: Epoch: 111, CMI Accuracy: 0.7160,Time consumed:1.13s
+
+epoch 112 training time consumed: 29.26s
+Test set: Epoch: 112, CMI Accuracy: 0.7148,Time consumed:1.02s
+
+epoch 113 training time consumed: 29.14s
+Test set: Epoch: 113, CMI Accuracy: 0.7144,Time consumed:1.08s
+
+epoch 114 training time consumed: 29.14s
+Test set: Epoch: 114, CMI Accuracy: 0.7126,Time consumed:1.08s
+
+epoch 115 training time consumed: 29.18s
+Test set: Epoch: 115, CMI Accuracy: 0.7120,Time consumed:1.08s
+
+epoch 116 training time consumed: 29.10s
+Test set: Epoch: 116, CMI Accuracy: 0.7119,Time consumed:1.03s
+
+epoch 117 training time consumed: 29.03s
+Test set: Epoch: 117, CMI Accuracy: 0.7144,Time consumed:1.09s
+
+epoch 118 training time consumed: 29.11s
+Test set: Epoch: 118, CMI Accuracy: 0.7154,Time consumed:1.07s
+
+epoch 119 training time consumed: 29.14s
+Test set: Epoch: 119, CMI Accuracy: 0.7189,Time consumed:1.03s
+
+epoch 120 training time consumed: 29.36s
+Test set: Epoch: 120, CMI Accuracy: 0.7076,Time consumed:1.12s
+
+epoch 121 training time consumed: 29.18s
+Test set: Epoch: 121, CMI Accuracy: 0.7198,Time consumed:1.05s
+
+epoch 122 training time consumed: 29.11s
+Test set: Epoch: 122, CMI Accuracy: 0.7169,Time consumed:1.03s
+
+epoch 123 training time consumed: 29.10s
+Test set: Epoch: 123, CMI Accuracy: 0.7206,Time consumed:1.10s
+
+epoch 124 training time consumed: 32.25s
+Test set: Epoch: 124, CMI Accuracy: 0.7162,Time consumed:1.11s
+
+epoch 125 training time consumed: 29.09s
+Test set: Epoch: 125, CMI Accuracy: 0.7193,Time consumed:1.05s
+
+epoch 126 training time consumed: 29.31s
+Test set: Epoch: 126, CMI Accuracy: 0.7196,Time consumed:1.02s
+
+epoch 127 training time consumed: 29.12s
+Test set: Epoch: 127, CMI Accuracy: 0.7180,Time consumed:1.05s
+
+epoch 128 training time consumed: 29.10s
+Test set: Epoch: 128, CMI Accuracy: 0.7183,Time consumed:1.08s
+
+epoch 129 training time consumed: 29.24s
+Test set: Epoch: 129, CMI Accuracy: 0.7170,Time consumed:1.10s
+
+epoch 130 training time consumed: 29.39s
+Test set: Epoch: 130, CMI Accuracy: 0.7212,Time consumed:1.02s
+
+epoch 131 training time consumed: 29.13s
+Test set: Epoch: 131, CMI Accuracy: 0.7235,Time consumed:1.09s
+
+epoch 132 training time consumed: 29.14s
+Test set: Epoch: 132, CMI Accuracy: 0.7184,Time consumed:1.03s
+
+epoch 133 training time consumed: 29.09s
+Test set: Epoch: 133, CMI Accuracy: 0.7191,Time consumed:1.11s
+
+epoch 134 training time consumed: 29.19s
+Test set: Epoch: 134, CMI Accuracy: 0.7156,Time consumed:1.11s
+
+epoch 135 training time consumed: 33.14s
+Test set: Epoch: 135, CMI Accuracy: 0.7144,Time consumed:1.04s
+
+epoch 136 training time consumed: 29.12s
+Test set: Epoch: 136, CMI Accuracy: 0.7135,Time consumed:1.04s
+
+epoch 137 training time consumed: 29.27s
+Test set: Epoch: 137, CMI Accuracy: 0.7179,Time consumed:1.09s
+
+epoch 138 training time consumed: 29.20s
+Test set: Epoch: 138, CMI Accuracy: 0.7175,Time consumed:1.07s
+
+epoch 139 training time consumed: 32.00s
+Test set: Epoch: 139, CMI Accuracy: 0.7178,Time consumed:1.05s
+
+epoch 140 training time consumed: 29.14s
+Test set: Epoch: 140, CMI Accuracy: 0.7111,Time consumed:1.13s
+
+epoch 141 training time consumed: 29.14s
+Test set: Epoch: 141, CMI Accuracy: 0.6429,Time consumed:1.15s
+
+epoch 142 training time consumed: 29.18s
+Test set: Epoch: 142, CMI Accuracy: 0.7130,Time consumed:1.14s
+
+epoch 143 training time consumed: 29.26s
+Test set: Epoch: 143, CMI Accuracy: 0.5923,Time consumed:1.01s
+
+epoch 144 training time consumed: 29.17s
+Test set: Epoch: 144, CMI Accuracy: 0.6855,Time consumed:1.05s
+
+epoch 145 training time consumed: 29.23s
+Test set: Epoch: 145, CMI Accuracy: 0.0100,Time consumed:1.04s
+
+epoch 146 training time consumed: 29.11s
+Test set: Epoch: 146, CMI Accuracy: 0.4102,Time consumed:1.17s
+
+epoch 147 training time consumed: 29.14s
+Test set: Epoch: 147, CMI Accuracy: 0.7152,Time consumed:1.01s
+
+epoch 148 training time consumed: 29.10s
+Test set: Epoch: 148, CMI Accuracy: 0.7069,Time consumed:1.05s
+
+epoch 149 training time consumed: 29.12s
+Test set: Epoch: 149, CMI Accuracy: 0.0100,Time consumed:1.15s
+
+epoch 150 training time consumed: 29.08s
+Test set: Epoch: 150, CMI Accuracy: 0.0100,Time consumed:1.05s
+
+epoch 151 training time consumed: 29.18s
+Test set: Epoch: 151, CMI Accuracy: 0.0100,Time consumed:1.04s
+
+epoch 152 training time consumed: 29.10s
+Test set: Epoch: 152, CMI Accuracy: 0.7110,Time consumed:1.01s
+
+epoch 153 training time consumed: 29.23s
+Test set: Epoch: 153, CMI Accuracy: 0.7047,Time consumed:1.07s
+
+epoch 154 training time consumed: 29.12s
+Test set: Epoch: 154, CMI Accuracy: 0.7158,Time consumed:1.09s
+
+epoch 155 training time consumed: 29.12s
+Test set: Epoch: 155, CMI Accuracy: 0.7040,Time consumed:1.01s
+
+epoch 156 training time consumed: 29.11s
+Test set: Epoch: 156, CMI Accuracy: 0.2823,Time consumed:1.16s
+
+epoch 157 training time consumed: 29.07s
+Test set: Epoch: 157, CMI Accuracy: 0.1105,Time consumed:1.11s
+
+epoch 158 training time consumed: 29.24s
+Test set: Epoch: 158, CMI Accuracy: 0.7126,Time consumed:1.12s
+
+epoch 159 training time consumed: 29.12s
+Test set: Epoch: 159, CMI Accuracy: 0.0279,Time consumed:1.17s
+
+epoch 160 training time consumed: 29.51s
+Test set: Epoch: 160, CMI Accuracy: 0.5067,Time consumed:1.11s
+
+epoch 161 training time consumed: 29.77s
+Test set: Epoch: 161, CMI Accuracy: 0.7069,Time consumed:1.05s
+
+epoch 162 training time consumed: 29.43s
+Test set: Epoch: 162, CMI Accuracy: 0.6331,Time consumed:1.03s
+
+epoch 163 training time consumed: 29.10s
+Test set: Epoch: 163, CMI Accuracy: 0.7068,Time consumed:1.05s
+
+epoch 164 training time consumed: 29.31s
+Test set: Epoch: 164, CMI Accuracy: 0.6996,Time consumed:1.05s
+
+epoch 165 training time consumed: 29.13s
+Test set: Epoch: 165, CMI Accuracy: 0.7073,Time consumed:1.04s
+
+epoch 166 training time consumed: 29.04s
+Test set: Epoch: 166, CMI Accuracy: 0.4569,Time consumed:1.15s
+
+epoch 167 training time consumed: 29.15s
+Test set: Epoch: 167, CMI Accuracy: 0.1854,Time consumed:1.18s
+
+epoch 168 training time consumed: 29.11s
+Test set: Epoch: 168, CMI Accuracy: 0.7060,Time consumed:1.11s
+
+epoch 169 training time consumed: 29.17s
+Test set: Epoch: 169, CMI Accuracy: 0.2582,Time consumed:1.02s
+
+epoch 170 training time consumed: 29.12s
+Test set: Epoch: 170, CMI Accuracy: 0.6927,Time consumed:1.29s
+
+epoch 171 training time consumed: 29.09s
+Test set: Epoch: 171, CMI Accuracy: 0.7062,Time consumed:1.05s
+
+epoch 172 training time consumed: 29.10s
+Test set: Epoch: 172, CMI Accuracy: 0.6873,Time consumed:1.14s
+
+epoch 173 training time consumed: 29.14s
+Test set: Epoch: 173, CMI Accuracy: 0.6927,Time consumed:1.02s
+
+epoch 174 training time consumed: 29.10s
+Test set: Epoch: 174, CMI Accuracy: 0.5774,Time consumed:1.07s
+
+epoch 175 training time consumed: 29.12s
+Test set: Epoch: 175, CMI Accuracy: 0.6698,Time consumed:1.13s
+
+epoch 176 training time consumed: 29.09s
+Test set: Epoch: 176, CMI Accuracy: 0.6901,Time consumed:1.05s
+
+epoch 177 training time consumed: 29.11s
+Test set: Epoch: 177, CMI Accuracy: 0.6906,Time consumed:1.03s
+
+epoch 178 training time consumed: 29.12s
+Test set: Epoch: 178, CMI Accuracy: 0.3693,Time consumed:1.02s
+
+epoch 179 training time consumed: 29.18s
+Test set: Epoch: 179, CMI Accuracy: 0.6892,Time consumed:1.09s
+
+epoch 180 training time consumed: 29.14s
+Test set: Epoch: 180, CMI Accuracy: 0.6765,Time consumed:1.07s
+
+epoch 181 training time consumed: 29.14s
+Test set: Epoch: 181, CMI Accuracy: 0.6796,Time consumed:1.05s
+
+epoch 182 training time consumed: 29.16s
+Test set: Epoch: 182, CMI Accuracy: 0.0724,Time consumed:1.03s
+
+epoch 183 training time consumed: 29.16s
+Test set: Epoch: 183, CMI Accuracy: 0.0168,Time consumed:1.09s
+
+epoch 184 training time consumed: 29.15s
+Test set: Epoch: 184, CMI Accuracy: 0.6522,Time consumed:1.13s
+
+epoch 185 training time consumed: 29.14s
+Test set: Epoch: 185, CMI Accuracy: 0.6452,Time consumed:1.05s
+
+epoch 186 training time consumed: 29.19s
+Test set: Epoch: 186, CMI Accuracy: 0.6493,Time consumed:1.10s
+
+epoch 187 training time consumed: 29.11s
+Test set: Epoch: 187, CMI Accuracy: 0.6552,Time consumed:1.03s
+
+epoch 188 training time consumed: 29.05s
+Test set: Epoch: 188, CMI Accuracy: 0.6418,Time consumed:1.13s
+
+epoch 189 training time consumed: 29.12s
+Test set: Epoch: 189, CMI Accuracy: 0.5293,Time consumed:1.05s
+
+epoch 190 training time consumed: 29.18s
+Test set: Epoch: 190, CMI Accuracy: 0.5934,Time consumed:1.16s
+
+epoch 191 training time consumed: 29.21s
+Test set: Epoch: 191, CMI Accuracy: 0.5901,Time consumed:1.02s
+
+epoch 192 training time consumed: 29.07s
+Test set: Epoch: 192, CMI Accuracy: 0.5949,Time consumed:1.00s
+
+epoch 193 training time consumed: 29.19s
+Test set: Epoch: 193, CMI Accuracy: 0.5498,Time consumed:1.10s
+
+epoch 194 training time consumed: 29.08s
+Test set: Epoch: 194, CMI Accuracy: 0.4880,Time consumed:1.08s
+
+epoch 195 training time consumed: 29.12s
+Test set: Epoch: 195, CMI Accuracy: 0.4741,Time consumed:1.03s
+
+epoch 196 training time consumed: 29.09s
+Test set: Epoch: 196, CMI Accuracy: 0.4502,Time consumed:1.09s
+
+epoch 197 training time consumed: 29.14s
+Test set: Epoch: 197, CMI Accuracy: 0.3759,Time consumed:1.04s
+
+epoch 198 training time consumed: 29.24s
+Test set: Epoch: 198, CMI Accuracy: 0.3357,Time consumed:1.06s
+
+epoch 199 training time consumed: 29.09s
+Test set: Epoch: 199, CMI Accuracy: 0.3139,Time consumed:1.04s
+
+epoch 200 training time consumed: 29.10s
+Test set: Epoch: 200, CMI Accuracy: 0.3293,Time consumed:1.08s
+
+Settings:  0.1 0.1 Best CMI scc: 0.7235
+1.0 0.1 0.2
+Files already downloaded and verified
+Files already downloaded and verified
+epoch 1 training time consumed: 29.37s
+Test set: Epoch: 1, CMI Accuracy: 0.0879,Time consumed:1.14s
+
+epoch 2 training time consumed: 29.08s
+Test set: Epoch: 2, CMI Accuracy: 0.1043,Time consumed:1.18s
+
+epoch 3 training time consumed: 29.18s
+Test set: Epoch: 3, CMI Accuracy: 0.1347,Time consumed:1.06s
+
+epoch 4 training time consumed: 29.06s
+Test set: Epoch: 4, CMI Accuracy: 0.1560,Time consumed:1.06s
+
+epoch 5 training time consumed: 29.14s
+Test set: Epoch: 5, CMI Accuracy: 0.2058,Time consumed:1.10s
+
+epoch 6 training time consumed: 29.10s
+Test set: Epoch: 6, CMI Accuracy: 0.2702,Time consumed:1.08s
+
+epoch 7 training time consumed: 29.14s
+Test set: Epoch: 7, CMI Accuracy: 0.3622,Time consumed:1.05s
+
+epoch 8 training time consumed: 29.12s
+Test set: Epoch: 8, CMI Accuracy: 0.3989,Time consumed:1.02s
+
+epoch 9 training time consumed: 29.12s
+Test set: Epoch: 9, CMI Accuracy: 0.4416,Time consumed:1.09s
+
+epoch 10 training time consumed: 29.09s
+Test set: Epoch: 10, CMI Accuracy: 0.4696,Time consumed:1.15s
+
+epoch 11 training time consumed: 29.11s
+Test set: Epoch: 11, CMI Accuracy: 0.5042,Time consumed:1.04s
+
+epoch 12 training time consumed: 29.12s
+Test set: Epoch: 12, CMI Accuracy: 0.5291,Time consumed:1.10s
+
+epoch 13 training time consumed: 29.08s
+Test set: Epoch: 13, CMI Accuracy: 0.5529,Time consumed:1.08s
+
+epoch 14 training time consumed: 29.11s
+Test set: Epoch: 14, CMI Accuracy: 0.5723,Time consumed:1.05s
+
+epoch 15 training time consumed: 29.15s
+Test set: Epoch: 15, CMI Accuracy: 0.5820,Time consumed:1.07s
+
+epoch 16 training time consumed: 29.11s
+Test set: Epoch: 16, CMI Accuracy: 0.5964,Time consumed:1.04s
+
+epoch 17 training time consumed: 29.12s
+Test set: Epoch: 17, CMI Accuracy: 0.6045,Time consumed:1.09s
+
+epoch 18 training time consumed: 29.11s
+Test set: Epoch: 18, CMI Accuracy: 0.6106,Time consumed:1.01s
+
+epoch 19 training time consumed: 29.12s
+Test set: Epoch: 19, CMI Accuracy: 0.6235,Time consumed:1.10s
+
+epoch 20 training time consumed: 29.17s
+Test set: Epoch: 20, CMI Accuracy: 0.6387,Time consumed:1.11s
+
+epoch 21 training time consumed: 29.08s
+Test set: Epoch: 21, CMI Accuracy: 0.6442,Time consumed:1.09s
+
+epoch 22 training time consumed: 29.09s
+Test set: Epoch: 22, CMI Accuracy: 0.6510,Time consumed:1.06s
+
+epoch 23 training time consumed: 29.14s
+Test set: Epoch: 23, CMI Accuracy: 0.6615,Time consumed:1.09s
+
+epoch 24 training time consumed: 29.18s
+Test set: Epoch: 24, CMI Accuracy: 0.6572,Time consumed:1.04s
+
+epoch 25 training time consumed: 29.07s
+Test set: Epoch: 25, CMI Accuracy: 0.6653,Time consumed:1.07s
+
+epoch 26 training time consumed: 29.08s
+Test set: Epoch: 26, CMI Accuracy: 0.6645,Time consumed:1.03s
+
+epoch 27 training time consumed: 29.20s
+Test set: Epoch: 27, CMI Accuracy: 0.6642,Time consumed:1.26s
+
+epoch 28 training time consumed: 29.16s
+Test set: Epoch: 28, CMI Accuracy: 0.6731,Time consumed:1.14s
+
+epoch 29 training time consumed: 29.26s
+Test set: Epoch: 29, CMI Accuracy: 0.6707,Time consumed:1.09s
+
+epoch 30 training time consumed: 29.10s
+Test set: Epoch: 30, CMI Accuracy: 0.6702,Time consumed:1.05s
+
+epoch 31 training time consumed: 29.09s
+Test set: Epoch: 31, CMI Accuracy: 0.6777,Time consumed:1.10s
+
+epoch 32 training time consumed: 29.09s
+Test set: Epoch: 32, CMI Accuracy: 0.6783,Time consumed:1.05s
+
+epoch 33 training time consumed: 29.08s
+Test set: Epoch: 33, CMI Accuracy: 0.6866,Time consumed:1.10s
+
+epoch 34 training time consumed: 29.15s
+Test set: Epoch: 34, CMI Accuracy: 0.6847,Time consumed:1.06s
+
+epoch 35 training time consumed: 29.18s
+Test set: Epoch: 35, CMI Accuracy: 0.6903,Time consumed:1.05s
+
+epoch 36 training time consumed: 29.16s
+Test set: Epoch: 36, CMI Accuracy: 0.6894,Time consumed:1.08s
+
+epoch 37 training time consumed: 29.07s
+Test set: Epoch: 37, CMI Accuracy: 0.6885,Time consumed:1.03s
+
+epoch 38 training time consumed: 29.08s
+Test set: Epoch: 38, CMI Accuracy: 0.6862,Time consumed:1.12s
+
+epoch 39 training time consumed: 29.10s
+Test set: Epoch: 39, CMI Accuracy: 0.6899,Time consumed:1.06s
+
+epoch 40 training time consumed: 29.19s
+Test set: Epoch: 40, CMI Accuracy: 0.6926,Time consumed:1.04s
+
+epoch 41 training time consumed: 29.75s
+Test set: Epoch: 41, CMI Accuracy: 0.6974,Time consumed:1.07s
+
+epoch 42 training time consumed: 29.11s
+Test set: Epoch: 42, CMI Accuracy: 0.7045,Time consumed:1.05s
+
+epoch 43 training time consumed: 29.07s
+Test set: Epoch: 43, CMI Accuracy: 0.6927,Time consumed:1.10s
+
+epoch 44 training time consumed: 29.09s
+Test set: Epoch: 44, CMI Accuracy: 0.7065,Time consumed:1.01s
+
+epoch 45 training time consumed: 29.11s
+Test set: Epoch: 45, CMI Accuracy: 0.7032,Time consumed:1.08s
+
+epoch 46 training time consumed: 29.21s
+Test set: Epoch: 46, CMI Accuracy: 0.6966,Time consumed:1.11s
+
+epoch 47 training time consumed: 29.11s
+Test set: Epoch: 47, CMI Accuracy: 0.6983,Time consumed:1.09s
+
+epoch 48 training time consumed: 29.09s
+Test set: Epoch: 48, CMI Accuracy: 0.7060,Time consumed:1.10s
+
+epoch 49 training time consumed: 29.09s
+Test set: Epoch: 49, CMI Accuracy: 0.7078,Time consumed:1.03s
+
+epoch 50 training time consumed: 29.16s
+Test set: Epoch: 50, CMI Accuracy: 0.7058,Time consumed:1.10s
+
+epoch 51 training time consumed: 29.09s
+Test set: Epoch: 51, CMI Accuracy: 0.6997,Time consumed:1.04s
+
+epoch 52 training time consumed: 29.07s
+Test set: Epoch: 52, CMI Accuracy: 0.7074,Time consumed:1.04s
+
+epoch 53 training time consumed: 29.06s
+Test set: Epoch: 53, CMI Accuracy: 0.6972,Time consumed:1.02s
+
+epoch 54 training time consumed: 29.11s
+Test set: Epoch: 54, CMI Accuracy: 0.6966,Time consumed:1.05s
+
+epoch 55 training time consumed: 29.12s
+Test set: Epoch: 55, CMI Accuracy: 0.6977,Time consumed:1.14s
+
+epoch 56 training time consumed: 29.08s
+Test set: Epoch: 56, CMI Accuracy: 0.6949,Time consumed:1.12s
+
+epoch 57 training time consumed: 29.11s
+Test set: Epoch: 57, CMI Accuracy: 0.6909,Time consumed:1.01s
+
+epoch 58 training time consumed: 29.14s
+Test set: Epoch: 58, CMI Accuracy: 0.6912,Time consumed:1.04s
+
+epoch 59 training time consumed: 29.07s
+Test set: Epoch: 59, CMI Accuracy: 0.6770,Time consumed:1.05s
+
+epoch 60 training time consumed: 29.14s
+Test set: Epoch: 60, CMI Accuracy: 0.6809,Time consumed:1.09s
+
+epoch 61 training time consumed: 29.08s
+Test set: Epoch: 61, CMI Accuracy: 0.7064,Time consumed:1.08s
+
+epoch 62 training time consumed: 30.04s
+Test set: Epoch: 62, CMI Accuracy: 0.7072,Time consumed:1.04s
+
+epoch 63 training time consumed: 29.99s
+Test set: Epoch: 63, CMI Accuracy: 0.7070,Time consumed:1.15s
+
+epoch 64 training time consumed: 29.14s
+Test set: Epoch: 64, CMI Accuracy: 0.7141,Time consumed:1.05s
+
+epoch 65 training time consumed: 29.09s
+Test set: Epoch: 65, CMI Accuracy: 0.7093,Time consumed:1.06s
+
+epoch 66 training time consumed: 29.10s
+Test set: Epoch: 66, CMI Accuracy: 0.7167,Time consumed:0.99s
+
+epoch 67 training time consumed: 29.09s
+Test set: Epoch: 67, CMI Accuracy: 0.7141,Time consumed:1.11s
+
+epoch 68 training time consumed: 29.05s
+Test set: Epoch: 68, CMI Accuracy: 0.7140,Time consumed:1.08s
+
+epoch 69 training time consumed: 29.07s
+Test set: Epoch: 69, CMI Accuracy: 0.7132,Time consumed:1.03s
+
+epoch 70 training time consumed: 29.05s
+Test set: Epoch: 70, CMI Accuracy: 0.7197,Time consumed:1.06s
+
+epoch 71 training time consumed: 29.10s
+Test set: Epoch: 71, CMI Accuracy: 0.7204,Time consumed:1.08s
+
+epoch 72 training time consumed: 29.11s
+Test set: Epoch: 72, CMI Accuracy: 0.7153,Time consumed:1.24s
+
+epoch 73 training time consumed: 29.08s
+Test set: Epoch: 73, CMI Accuracy: 0.7155,Time consumed:1.10s
+
+epoch 74 training time consumed: 29.10s
+Test set: Epoch: 74, CMI Accuracy: 0.7167,Time consumed:1.00s
+
+epoch 75 training time consumed: 29.09s
+Test set: Epoch: 75, CMI Accuracy: 0.7194,Time consumed:1.07s
+
+epoch 76 training time consumed: 29.16s
+Test set: Epoch: 76, CMI Accuracy: 0.7196,Time consumed:1.05s
+
+epoch 77 training time consumed: 29.09s
+Test set: Epoch: 77, CMI Accuracy: 0.7163,Time consumed:1.09s
+
+epoch 78 training time consumed: 29.15s
+Test set: Epoch: 78, CMI Accuracy: 0.7218,Time consumed:1.04s
+
+epoch 79 training time consumed: 29.10s
+Test set: Epoch: 79, CMI Accuracy: 0.7224,Time consumed:1.07s
+
+epoch 80 training time consumed: 29.06s
+Test set: Epoch: 80, CMI Accuracy: 0.7177,Time consumed:1.06s
+
+epoch 81 training time consumed: 29.05s
+Test set: Epoch: 81, CMI Accuracy: 0.7191,Time consumed:1.08s
+
+epoch 82 training time consumed: 29.07s
+Test set: Epoch: 82, CMI Accuracy: 0.7183,Time consumed:1.10s
+
+epoch 83 training time consumed: 30.87s
+Test set: Epoch: 83, CMI Accuracy: 0.7201,Time consumed:1.14s
+
+epoch 84 training time consumed: 29.14s
+Test set: Epoch: 84, CMI Accuracy: 0.7212,Time consumed:1.08s
+
+epoch 85 training time consumed: 29.08s
+Test set: Epoch: 85, CMI Accuracy: 0.7185,Time consumed:1.13s
+
+epoch 86 training time consumed: 29.04s
+Test set: Epoch: 86, CMI Accuracy: 0.7193,Time consumed:1.10s
+
+epoch 87 training time consumed: 29.16s
+Test set: Epoch: 87, CMI Accuracy: 0.7194,Time consumed:1.06s
+
+epoch 88 training time consumed: 29.14s
+Test set: Epoch: 88, CMI Accuracy: 0.7178,Time consumed:1.06s
+
+epoch 89 training time consumed: 32.25s
+Test set: Epoch: 89, CMI Accuracy: 0.7181,Time consumed:1.09s
+
+epoch 90 training time consumed: 29.05s
+Test set: Epoch: 90, CMI Accuracy: 0.7197,Time consumed:1.06s
+
+epoch 91 training time consumed: 29.08s
+Test set: Epoch: 91, CMI Accuracy: 0.7190,Time consumed:1.07s
+
+epoch 92 training time consumed: 39.25s
+Test set: Epoch: 92, CMI Accuracy: 0.7195,Time consumed:1.08s
+
+epoch 93 training time consumed: 32.56s
+Test set: Epoch: 93, CMI Accuracy: 0.7236,Time consumed:1.08s
+
+epoch 94 training time consumed: 34.83s
+Test set: Epoch: 94, CMI Accuracy: 0.7201,Time consumed:1.04s
+
+epoch 95 training time consumed: 29.61s
+Test set: Epoch: 95, CMI Accuracy: 0.7202,Time consumed:1.03s
+
+epoch 96 training time consumed: 29.65s
+Test set: Epoch: 96, CMI Accuracy: 0.7226,Time consumed:1.11s
+
+epoch 97 training time consumed: 32.29s
+Test set: Epoch: 97, CMI Accuracy: 0.7217,Time consumed:1.10s
+
+epoch 98 training time consumed: 29.18s
+Test set: Epoch: 98, CMI Accuracy: 0.7185,Time consumed:1.06s
+
+epoch 99 training time consumed: 32.40s
+Test set: Epoch: 99, CMI Accuracy: 0.7176,Time consumed:1.07s
+
+epoch 100 training time consumed: 29.07s
+Test set: Epoch: 100, CMI Accuracy: 0.7176,Time consumed:1.11s
+
+epoch 101 training time consumed: 32.17s
+Test set: Epoch: 101, CMI Accuracy: 0.7156,Time consumed:1.02s
+
+epoch 102 training time consumed: 29.09s
+Test set: Epoch: 102, CMI Accuracy: 0.7205,Time consumed:1.07s
+
+epoch 103 training time consumed: 29.10s
+Test set: Epoch: 103, CMI Accuracy: 0.7210,Time consumed:1.08s
+
+epoch 104 training time consumed: 29.09s
+Test set: Epoch: 104, CMI Accuracy: 0.7187,Time consumed:1.07s
+
+epoch 105 training time consumed: 29.10s
+Test set: Epoch: 105, CMI Accuracy: 0.7170,Time consumed:1.07s
+
+epoch 106 training time consumed: 29.06s
+Test set: Epoch: 106, CMI Accuracy: 0.7216,Time consumed:1.03s
+
+epoch 107 training time consumed: 29.07s
+Test set: Epoch: 107, CMI Accuracy: 0.7200,Time consumed:1.07s
+
+epoch 108 training time consumed: 36.62s
+Test set: Epoch: 108, CMI Accuracy: 0.7212,Time consumed:1.11s
+
+epoch 109 training time consumed: 29.11s
+Test set: Epoch: 109, CMI Accuracy: 0.7202,Time consumed:1.06s
+
+epoch 110 training time consumed: 29.05s
+Test set: Epoch: 110, CMI Accuracy: 0.7162,Time consumed:1.02s
+
+epoch 111 training time consumed: 29.11s
+Test set: Epoch: 111, CMI Accuracy: 0.7176,Time consumed:1.06s
+
+epoch 112 training time consumed: 29.11s
+Test set: Epoch: 112, CMI Accuracy: 0.7165,Time consumed:1.07s
+
+epoch 113 training time consumed: 29.11s
+Test set: Epoch: 113, CMI Accuracy: 0.7218,Time consumed:1.04s
+
+epoch 114 training time consumed: 29.08s
+Test set: Epoch: 114, CMI Accuracy: 0.7191,Time consumed:1.08s
+
+epoch 115 training time consumed: 29.05s
+Test set: Epoch: 115, CMI Accuracy: 0.7179,Time consumed:1.05s
+
+epoch 116 training time consumed: 29.04s
+Test set: Epoch: 116, CMI Accuracy: 0.7190,Time consumed:1.10s
+
+epoch 117 training time consumed: 29.12s
+Test set: Epoch: 117, CMI Accuracy: 0.7188,Time consumed:1.08s
+
+epoch 118 training time consumed: 29.05s
+Test set: Epoch: 118, CMI Accuracy: 0.7173,Time consumed:1.14s
+
+epoch 119 training time consumed: 29.08s
+Test set: Epoch: 119, CMI Accuracy: 0.7156,Time consumed:1.04s
+
+epoch 120 training time consumed: 29.15s
+Test set: Epoch: 120, CMI Accuracy: 0.7166,Time consumed:1.07s
+
+epoch 121 training time consumed: 29.16s
+Test set: Epoch: 121, CMI Accuracy: 0.7200,Time consumed:1.19s
+
+epoch 122 training time consumed: 29.16s
+Test set: Epoch: 122, CMI Accuracy: 0.7163,Time consumed:1.09s
+
+epoch 123 training time consumed: 29.09s
+Test set: Epoch: 123, CMI Accuracy: 0.7139,Time consumed:1.15s
+
+epoch 124 training time consumed: 29.14s
+Test set: Epoch: 124, CMI Accuracy: 0.7137,Time consumed:1.06s
+
+epoch 125 training time consumed: 29.05s
+Test set: Epoch: 125, CMI Accuracy: 0.7196,Time consumed:1.02s
+
+epoch 126 training time consumed: 33.43s
+Test set: Epoch: 126, CMI Accuracy: 0.7153,Time consumed:1.03s
+
+epoch 127 training time consumed: 32.94s
+Test set: Epoch: 127, CMI Accuracy: 0.7172,Time consumed:1.05s
+
+epoch 128 training time consumed: 29.95s
+Test set: Epoch: 128, CMI Accuracy: 0.7178,Time consumed:1.05s
+
+epoch 129 training time consumed: 29.06s
+Test set: Epoch: 129, CMI Accuracy: 0.7185,Time consumed:1.03s
+
+epoch 130 training time consumed: 29.08s
+Test set: Epoch: 130, CMI Accuracy: 0.7153,Time consumed:0.98s
+
+epoch 131 training time consumed: 29.04s
+Test set: Epoch: 131, CMI Accuracy: 0.7144,Time consumed:1.08s
+
+epoch 132 training time consumed: 29.11s
+Test set: Epoch: 132, CMI Accuracy: 0.7178,Time consumed:1.04s
+
+epoch 133 training time consumed: 29.15s
+Test set: Epoch: 133, CMI Accuracy: 0.7154,Time consumed:1.08s
+
+epoch 134 training time consumed: 29.11s
+Test set: Epoch: 134, CMI Accuracy: 0.7117,Time consumed:1.01s
+
+epoch 135 training time consumed: 29.11s
+Test set: Epoch: 135, CMI Accuracy: 0.7135,Time consumed:1.08s
+
+epoch 136 training time consumed: 29.09s
+Test set: Epoch: 136, CMI Accuracy: 0.7130,Time consumed:1.12s
+
+epoch 137 training time consumed: 29.13s
+Test set: Epoch: 137, CMI Accuracy: 0.7116,Time consumed:1.08s
+
+epoch 138 training time consumed: 29.08s
+Test set: Epoch: 138, CMI Accuracy: 0.7116,Time consumed:1.07s
+
+epoch 139 training time consumed: 29.10s
+Test set: Epoch: 139, CMI Accuracy: 0.7124,Time consumed:1.07s
+
+epoch 140 training time consumed: 29.15s
+Test set: Epoch: 140, CMI Accuracy: 0.7107,Time consumed:1.07s
+
+epoch 141 training time consumed: 29.12s
+Test set: Epoch: 141, CMI Accuracy: 0.7120,Time consumed:1.04s
+
+epoch 142 training time consumed: 29.06s
+Test set: Epoch: 142, CMI Accuracy: 0.7123,Time consumed:1.10s
+
+epoch 143 training time consumed: 29.10s
+Test set: Epoch: 143, CMI Accuracy: 0.7115,Time consumed:1.09s
+
+epoch 144 training time consumed: 33.34s
+Test set: Epoch: 144, CMI Accuracy: 0.7072,Time consumed:1.02s
+
+epoch 145 training time consumed: 32.28s
+Test set: Epoch: 145, CMI Accuracy: 0.7148,Time consumed:1.06s
+
+epoch 146 training time consumed: 29.12s
+Test set: Epoch: 146, CMI Accuracy: 0.7110,Time consumed:1.09s
+
+epoch 147 training time consumed: 29.11s
+Test set: Epoch: 147, CMI Accuracy: 0.7077,Time consumed:1.07s
+
+epoch 148 training time consumed: 29.10s
+Test set: Epoch: 148, CMI Accuracy: 0.7103,Time consumed:1.04s
+
+epoch 149 training time consumed: 29.11s
+Test set: Epoch: 149, CMI Accuracy: 0.6989,Time consumed:1.08s
+
+epoch 150 training time consumed: 29.15s
+Test set: Epoch: 150, CMI Accuracy: 0.6930,Time consumed:1.11s
+
+epoch 151 training time consumed: 29.09s
+Test set: Epoch: 151, CMI Accuracy: 0.7048,Time consumed:1.05s
+
+epoch 152 training time consumed: 29.11s
+Test set: Epoch: 152, CMI Accuracy: 0.6831,Time consumed:1.08s
+
+epoch 153 training time consumed: 29.06s
+Test set: Epoch: 153, CMI Accuracy: 0.6999,Time consumed:1.05s
+
+epoch 154 training time consumed: 29.12s
+Test set: Epoch: 154, CMI Accuracy: 0.6938,Time consumed:1.12s
+
+epoch 155 training time consumed: 29.10s
+Test set: Epoch: 155, CMI Accuracy: 0.6837,Time consumed:1.08s
+
+epoch 156 training time consumed: 29.12s
+Test set: Epoch: 156, CMI Accuracy: 0.6844,Time consumed:1.08s
+
+epoch 157 training time consumed: 29.11s
+Test set: Epoch: 157, CMI Accuracy: 0.6513,Time consumed:1.05s
+
+epoch 158 training time consumed: 29.12s
+Test set: Epoch: 158, CMI Accuracy: 0.6244,Time consumed:1.06s
+
+epoch 159 training time consumed: 29.18s
+Test set: Epoch: 159, CMI Accuracy: 0.6420,Time consumed:1.06s
+
+epoch 160 training time consumed: 29.14s
+Test set: Epoch: 160, CMI Accuracy: 0.6406,Time consumed:1.13s
+
+epoch 161 training time consumed: 29.10s
+Test set: Epoch: 161, CMI Accuracy: 0.6534,Time consumed:1.07s
+
+epoch 162 training time consumed: 29.07s
+Test set: Epoch: 162, CMI Accuracy: 0.5799,Time consumed:1.09s
+
+epoch 163 training time consumed: 29.08s
+Test set: Epoch: 163, CMI Accuracy: 0.6170,Time consumed:1.03s
+
+epoch 164 training time consumed: 29.14s
+Test set: Epoch: 164, CMI Accuracy: 0.6217,Time consumed:1.07s
+
+epoch 165 training time consumed: 29.08s
+Test set: Epoch: 165, CMI Accuracy: 0.5758,Time consumed:1.08s
+
+epoch 166 training time consumed: 29.66s
+Test set: Epoch: 166, CMI Accuracy: 0.6030,Time consumed:1.01s
+
+epoch 167 training time consumed: 29.14s
+Test set: Epoch: 167, CMI Accuracy: 0.5628,Time consumed:1.04s
+
+epoch 168 training time consumed: 29.08s
+Test set: Epoch: 168, CMI Accuracy: 0.4966,Time consumed:1.10s
+
+epoch 169 training time consumed: 29.08s
+Test set: Epoch: 169, CMI Accuracy: 0.5112,Time consumed:1.05s
+
+epoch 170 training time consumed: 29.06s
+Test set: Epoch: 170, CMI Accuracy: 0.2913,Time consumed:1.13s
+
+epoch 171 training time consumed: 29.12s
+Test set: Epoch: 171, CMI Accuracy: 0.4242,Time consumed:1.06s
+
+epoch 172 training time consumed: 29.13s
+Test set: Epoch: 172, CMI Accuracy: 0.4112,Time consumed:1.05s
+
+epoch 173 training time consumed: 29.11s
+Test set: Epoch: 173, CMI Accuracy: 0.3232,Time consumed:1.12s
+
+epoch 174 training time consumed: 29.14s
+Test set: Epoch: 174, CMI Accuracy: 0.1809,Time consumed:1.06s
+
+epoch 175 training time consumed: 29.11s
+Test set: Epoch: 175, CMI Accuracy: 0.3935,Time consumed:1.06s
+
+epoch 176 training time consumed: 29.11s
+Test set: Epoch: 176, CMI Accuracy: 0.1975,Time consumed:1.09s
+
+epoch 177 training time consumed: 29.09s
+Test set: Epoch: 177, CMI Accuracy: 0.1431,Time consumed:1.07s
+
+epoch 178 training time consumed: 29.34s
+Test set: Epoch: 178, CMI Accuracy: 0.3281,Time consumed:1.06s
+
+epoch 179 training time consumed: 29.08s
+Test set: Epoch: 179, CMI Accuracy: 0.1569,Time consumed:1.15s
+
+epoch 180 training time consumed: 29.05s
+Test set: Epoch: 180, CMI Accuracy: 0.2041,Time consumed:1.18s
+
+epoch 181 training time consumed: 29.01s
+Test set: Epoch: 181, CMI Accuracy: 0.0361,Time consumed:1.10s
+
+epoch 182 training time consumed: 29.07s
+Test set: Epoch: 182, CMI Accuracy: 0.2394,Time consumed:1.10s
+
+epoch 183 training time consumed: 29.11s
+Test set: Epoch: 183, CMI Accuracy: 0.0345,Time consumed:1.11s
+
+epoch 184 training time consumed: 29.14s
+Test set: Epoch: 184, CMI Accuracy: 0.0626,Time consumed:1.10s
+
+epoch 185 training time consumed: 29.09s
+Test set: Epoch: 185, CMI Accuracy: 0.0813,Time consumed:1.00s
+
+epoch 186 training time consumed: 29.15s
+Test set: Epoch: 186, CMI Accuracy: 0.0308,Time consumed:1.07s
+
+epoch 187 training time consumed: 29.10s
+Test set: Epoch: 187, CMI Accuracy: 0.0225,Time consumed:1.03s
+
+epoch 188 training time consumed: 29.11s
+Test set: Epoch: 188, CMI Accuracy: 0.0499,Time consumed:1.07s
+
+epoch 189 training time consumed: 29.08s
+Test set: Epoch: 189, CMI Accuracy: 0.0544,Time consumed:1.07s
+
+epoch 190 training time consumed: 29.13s
+Test set: Epoch: 190, CMI Accuracy: 0.0610,Time consumed:1.06s
+
+epoch 191 training time consumed: 29.04s
+Test set: Epoch: 191, CMI Accuracy: 0.0363,Time consumed:1.05s
+
+epoch 192 training time consumed: 29.08s
+Test set: Epoch: 192, CMI Accuracy: 0.0430,Time consumed:1.04s
+
+epoch 193 training time consumed: 29.05s
+Test set: Epoch: 193, CMI Accuracy: 0.0265,Time consumed:1.11s
+
+epoch 194 training time consumed: 29.07s
+Test set: Epoch: 194, CMI Accuracy: 0.0100,Time consumed:1.08s
+
+epoch 195 training time consumed: 29.08s
+Test set: Epoch: 195, CMI Accuracy: 0.0131,Time consumed:1.04s
+
+epoch 196 training time consumed: 29.10s
+Test set: Epoch: 196, CMI Accuracy: 0.0100,Time consumed:1.09s
+
+epoch 197 training time consumed: 29.15s
+Test set: Epoch: 197, CMI Accuracy: 0.0112,Time consumed:1.07s
+
+epoch 198 training time consumed: 29.07s
+Test set: Epoch: 198, CMI Accuracy: 0.0183,Time consumed:1.07s
+
+epoch 199 training time consumed: 29.07s
+Test set: Epoch: 199, CMI Accuracy: 0.0153,Time consumed:1.18s
+
+epoch 200 training time consumed: 29.10s
+Test set: Epoch: 200, CMI Accuracy: 0.0216,Time consumed:1.07s
+
+Settings:  0.1 0.2 Best CMI scc: 0.7236
+1.0 0.1 0.5
+Files already downloaded and verified
+Files already downloaded and verified
+epoch 1 training time consumed: 29.54s
+Test set: Epoch: 1, CMI Accuracy: 0.0625,Time consumed:1.14s
+
+epoch 2 training time consumed: 29.12s
+Test set: Epoch: 2, CMI Accuracy: 0.1088,Time consumed:1.05s
+
+epoch 3 training time consumed: 29.09s
+Test set: Epoch: 3, CMI Accuracy: 0.1509,Time consumed:1.13s
+
+epoch 4 training time consumed: 32.52s
+Test set: Epoch: 4, CMI Accuracy: 0.1961,Time consumed:1.07s
+
+epoch 5 training time consumed: 29.14s
+Test set: Epoch: 5, CMI Accuracy: 0.2299,Time consumed:1.05s
+
+epoch 6 training time consumed: 29.13s
+Test set: Epoch: 6, CMI Accuracy: 0.2759,Time consumed:1.10s
+
+epoch 7 training time consumed: 29.12s
+Test set: Epoch: 7, CMI Accuracy: 0.3055,Time consumed:1.09s
+
+epoch 8 training time consumed: 29.11s
+Test set: Epoch: 8, CMI Accuracy: 0.3520,Time consumed:1.15s
+
+epoch 9 training time consumed: 29.08s
+Test set: Epoch: 9, CMI Accuracy: 0.3817,Time consumed:1.05s
+
+epoch 10 training time consumed: 29.09s
+Test set: Epoch: 10, CMI Accuracy: 0.4240,Time consumed:1.02s
+
+epoch 11 training time consumed: 29.10s
+Test set: Epoch: 11, CMI Accuracy: 0.4430,Time consumed:1.07s
+
+epoch 12 training time consumed: 29.10s
+Test set: Epoch: 12, CMI Accuracy: 0.4661,Time consumed:1.00s
+
+epoch 13 training time consumed: 29.04s
+Test set: Epoch: 13, CMI Accuracy: 0.5037,Time consumed:1.13s
+
+epoch 14 training time consumed: 29.06s
+Test set: Epoch: 14, CMI Accuracy: 0.5283,Time consumed:1.08s
+
+epoch 15 training time consumed: 29.10s
+Test set: Epoch: 15, CMI Accuracy: 0.5430,Time consumed:1.15s
+
+epoch 16 training time consumed: 31.22s
+Test set: Epoch: 16, CMI Accuracy: 0.5485,Time consumed:1.11s
+
+epoch 17 training time consumed: 29.04s
+Test set: Epoch: 17, CMI Accuracy: 0.5567,Time consumed:1.04s
+
+epoch 18 training time consumed: 29.11s
+Test set: Epoch: 18, CMI Accuracy: 0.5820,Time consumed:1.10s
+
+epoch 19 training time consumed: 29.21s
+Test set: Epoch: 19, CMI Accuracy: 0.5829,Time consumed:1.04s
+
+epoch 20 training time consumed: 29.07s
+Test set: Epoch: 20, CMI Accuracy: 0.6004,Time consumed:1.05s
+
+epoch 21 training time consumed: 29.02s
+Test set: Epoch: 21, CMI Accuracy: 0.6047,Time consumed:1.08s
+
+epoch 22 training time consumed: 29.09s
+Test set: Epoch: 22, CMI Accuracy: 0.6170,Time consumed:1.13s
+
+epoch 23 training time consumed: 29.03s
+Test set: Epoch: 23, CMI Accuracy: 0.6162,Time consumed:1.18s
+
+epoch 24 training time consumed: 29.03s
+Test set: Epoch: 24, CMI Accuracy: 0.6341,Time consumed:1.07s
+
+epoch 25 training time consumed: 29.02s
+Test set: Epoch: 25, CMI Accuracy: 0.6268,Time consumed:1.02s
+
+epoch 26 training time consumed: 29.01s
+Test set: Epoch: 26, CMI Accuracy: 0.6425,Time consumed:1.06s
+
+epoch 27 training time consumed: 29.11s
+Test set: Epoch: 27, CMI Accuracy: 0.6552,Time consumed:1.06s
+
+epoch 28 training time consumed: 29.12s
+Test set: Epoch: 28, CMI Accuracy: 0.6412,Time consumed:1.04s
+
+epoch 29 training time consumed: 29.19s
+Test set: Epoch: 29, CMI Accuracy: 0.6572,Time consumed:1.06s
+
+epoch 30 training time consumed: 29.08s
+Test set: Epoch: 30, CMI Accuracy: 0.6563,Time consumed:1.09s
+
+epoch 31 training time consumed: 29.07s
+Test set: Epoch: 31, CMI Accuracy: 0.6642,Time consumed:1.04s
+
+epoch 32 training time consumed: 29.08s
+Test set: Epoch: 32, CMI Accuracy: 0.6631,Time consumed:1.02s
+
+epoch 33 training time consumed: 29.05s
+Test set: Epoch: 33, CMI Accuracy: 0.6625,Time consumed:1.33s
+
+epoch 34 training time consumed: 29.09s
+Test set: Epoch: 34, CMI Accuracy: 0.6682,Time consumed:1.07s
+
+epoch 35 training time consumed: 29.05s
+Test set: Epoch: 35, CMI Accuracy: 0.6730,Time consumed:1.04s
+
+epoch 36 training time consumed: 29.07s
+Test set: Epoch: 36, CMI Accuracy: 0.6710,Time consumed:1.10s
+
+epoch 37 training time consumed: 29.03s
+Test set: Epoch: 37, CMI Accuracy: 0.6797,Time consumed:1.05s
+
+epoch 38 training time consumed: 29.16s
+Test set: Epoch: 38, CMI Accuracy: 0.6755,Time consumed:1.14s
+
+epoch 39 training time consumed: 29.14s
+Test set: Epoch: 39, CMI Accuracy: 0.6830,Time consumed:1.11s
+
+epoch 40 training time consumed: 29.12s
+Test set: Epoch: 40, CMI Accuracy: 0.6749,Time consumed:1.12s
+
+epoch 41 training time consumed: 29.09s
+Test set: Epoch: 41, CMI Accuracy: 0.6835,Time consumed:1.06s
+
+epoch 42 training time consumed: 29.28s
+Test set: Epoch: 42, CMI Accuracy: 0.6756,Time consumed:1.11s
+
+epoch 43 training time consumed: 30.68s
+Test set: Epoch: 43, CMI Accuracy: 0.6917,Time consumed:1.06s
+
+epoch 44 training time consumed: 29.04s
+Test set: Epoch: 44, CMI Accuracy: 0.6841,Time consumed:1.05s
+
+epoch 45 training time consumed: 28.97s
+Test set: Epoch: 45, CMI Accuracy: 0.6871,Time consumed:1.13s
+
+epoch 46 training time consumed: 29.04s
+Test set: Epoch: 46, CMI Accuracy: 0.6787,Time consumed:1.06s
+
+epoch 47 training time consumed: 29.06s
+Test set: Epoch: 47, CMI Accuracy: 0.6864,Time consumed:1.06s
+
+epoch 48 training time consumed: 29.05s
+Test set: Epoch: 48, CMI Accuracy: 0.6873,Time consumed:1.02s
+
+epoch 49 training time consumed: 29.07s
+Test set: Epoch: 49, CMI Accuracy: 0.6851,Time consumed:1.08s
+
+epoch 50 training time consumed: 29.05s
+Test set: Epoch: 50, CMI Accuracy: 0.6941,Time consumed:1.05s
+
+epoch 51 training time consumed: 29.05s
+Test set: Epoch: 51, CMI Accuracy: 0.6848,Time consumed:1.05s
+
+epoch 52 training time consumed: 29.02s
+Test set: Epoch: 52, CMI Accuracy: 0.6913,Time consumed:1.08s
+
+epoch 53 training time consumed: 29.06s
+Test set: Epoch: 53, CMI Accuracy: 0.6896,Time consumed:1.08s
+
+epoch 54 training time consumed: 29.03s
+Test set: Epoch: 54, CMI Accuracy: 0.6863,Time consumed:1.12s
+
+epoch 55 training time consumed: 29.05s
+Test set: Epoch: 55, CMI Accuracy: 0.6964,Time consumed:1.06s
+
+epoch 56 training time consumed: 29.02s
+Test set: Epoch: 56, CMI Accuracy: 0.6927,Time consumed:1.02s
+
+epoch 57 training time consumed: 29.06s
+Test set: Epoch: 57, CMI Accuracy: 0.6995,Time consumed:1.14s
+
+epoch 58 training time consumed: 29.00s
+Test set: Epoch: 58, CMI Accuracy: 0.6991,Time consumed:1.06s
+
+epoch 59 training time consumed: 29.11s
+Test set: Epoch: 59, CMI Accuracy: 0.6971,Time consumed:1.06s
+
+epoch 60 training time consumed: 29.04s
+Test set: Epoch: 60, CMI Accuracy: 0.6956,Time consumed:1.04s
+
+epoch 61 training time consumed: 29.04s
+Test set: Epoch: 61, CMI Accuracy: 0.6973,Time consumed:1.05s
+
+epoch 62 training time consumed: 29.06s
+Test set: Epoch: 62, CMI Accuracy: 0.7004,Time consumed:1.20s
+
+epoch 63 training time consumed: 30.32s
+Test set: Epoch: 63, CMI Accuracy: 0.7021,Time consumed:1.10s
+
+epoch 64 training time consumed: 29.10s
+Test set: Epoch: 64, CMI Accuracy: 0.6982,Time consumed:1.08s
+
+epoch 65 training time consumed: 29.07s
+Test set: Epoch: 65, CMI Accuracy: 0.7000,Time consumed:1.09s
+
+epoch 66 training time consumed: 29.08s
+Test set: Epoch: 66, CMI Accuracy: 0.7027,Time consumed:1.05s
+
+epoch 67 training time consumed: 29.06s
+Test set: Epoch: 67, CMI Accuracy: 0.7010,Time consumed:1.12s
+
+epoch 68 training time consumed: 29.09s
+Test set: Epoch: 68, CMI Accuracy: 0.7022,Time consumed:1.13s
+
+epoch 69 training time consumed: 29.05s
+Test set: Epoch: 69, CMI Accuracy: 0.7033,Time consumed:1.10s
+
+epoch 70 training time consumed: 29.05s
+Test set: Epoch: 70, CMI Accuracy: 0.7051,Time consumed:1.10s
+
+epoch 71 training time consumed: 29.01s
+Test set: Epoch: 71, CMI Accuracy: 0.7045,Time consumed:1.02s
+
+epoch 72 training time consumed: 29.08s
+Test set: Epoch: 72, CMI Accuracy: 0.7075,Time consumed:1.07s
+
+epoch 73 training time consumed: 29.07s
+Test set: Epoch: 73, CMI Accuracy: 0.7132,Time consumed:1.08s
+
+epoch 74 training time consumed: 29.09s
+Test set: Epoch: 74, CMI Accuracy: 0.7022,Time consumed:1.09s
+
+epoch 75 training time consumed: 29.05s
+Test set: Epoch: 75, CMI Accuracy: 0.7078,Time consumed:1.04s
+
+epoch 76 training time consumed: 29.01s
+Test set: Epoch: 76, CMI Accuracy: 0.6946,Time consumed:1.24s
+
+epoch 77 training time consumed: 29.06s
+Test set: Epoch: 77, CMI Accuracy: 0.6979,Time consumed:1.06s
+
+epoch 78 training time consumed: 29.09s
+Test set: Epoch: 78, CMI Accuracy: 0.6986,Time consumed:1.05s
+
+epoch 79 training time consumed: 29.05s
+Test set: Epoch: 79, CMI Accuracy: 0.6985,Time consumed:1.06s
+
+epoch 80 training time consumed: 29.05s
+Test set: Epoch: 80, CMI Accuracy: 0.6831,Time consumed:1.09s
+
+epoch 81 training time consumed: 29.09s
+Test set: Epoch: 81, CMI Accuracy: 0.6855,Time consumed:1.03s
+
+epoch 82 training time consumed: 29.08s
+Test set: Epoch: 82, CMI Accuracy: 0.6633,Time consumed:1.13s
+
+epoch 83 training time consumed: 29.05s
+Test set: Epoch: 83, CMI Accuracy: 0.6759,Time consumed:1.05s
+
+epoch 84 training time consumed: 29.06s
+Test set: Epoch: 84, CMI Accuracy: 0.6906,Time consumed:1.08s
+
+epoch 85 training time consumed: 29.16s
+Test set: Epoch: 85, CMI Accuracy: 0.7083,Time consumed:1.00s
+
+epoch 86 training time consumed: 29.11s
+Test set: Epoch: 86, CMI Accuracy: 0.7225,Time consumed:1.03s
+
+epoch 87 training time consumed: 29.08s
+Test set: Epoch: 87, CMI Accuracy: 0.7213,Time consumed:1.04s
+
+epoch 88 training time consumed: 29.12s
+Test set: Epoch: 88, CMI Accuracy: 0.7197,Time consumed:1.01s
+
+epoch 89 training time consumed: 29.05s
+Test set: Epoch: 89, CMI Accuracy: 0.7242,Time consumed:1.07s
+
+epoch 90 training time consumed: 29.09s
+Test set: Epoch: 90, CMI Accuracy: 0.7257,Time consumed:0.99s
+
+epoch 91 training time consumed: 29.04s
+Test set: Epoch: 91, CMI Accuracy: 0.7262,Time consumed:1.10s
+
+epoch 92 training time consumed: 29.08s
+Test set: Epoch: 92, CMI Accuracy: 0.7224,Time consumed:1.04s
+
+epoch 93 training time consumed: 29.14s
+Test set: Epoch: 93, CMI Accuracy: 0.7221,Time consumed:1.06s
+
+epoch 94 training time consumed: 29.16s
+Test set: Epoch: 94, CMI Accuracy: 0.7218,Time consumed:1.08s
+
+epoch 95 training time consumed: 29.09s
+Test set: Epoch: 95, CMI Accuracy: 0.7248,Time consumed:1.11s
+
+epoch 96 training time consumed: 29.08s
+Test set: Epoch: 96, CMI Accuracy: 0.7228,Time consumed:1.06s
+
+epoch 97 training time consumed: 29.06s
+Test set: Epoch: 97, CMI Accuracy: 0.7231,Time consumed:1.14s
+
+epoch 98 training time consumed: 29.04s
+Test set: Epoch: 98, CMI Accuracy: 0.7225,Time consumed:1.03s
+
+epoch 99 training time consumed: 29.11s
+Test set: Epoch: 99, CMI Accuracy: 0.7199,Time consumed:1.09s
+
+epoch 100 training time consumed: 29.12s
+Test set: Epoch: 100, CMI Accuracy: 0.7232,Time consumed:1.01s
+
+epoch 101 training time consumed: 29.10s
+Test set: Epoch: 101, CMI Accuracy: 0.7204,Time consumed:1.04s
+
+epoch 102 training time consumed: 29.04s
+Test set: Epoch: 102, CMI Accuracy: 0.7240,Time consumed:1.03s
+
+epoch 103 training time consumed: 29.16s
+Test set: Epoch: 103, CMI Accuracy: 0.7232,Time consumed:1.10s
+
+epoch 104 training time consumed: 29.05s
+Test set: Epoch: 104, CMI Accuracy: 0.7210,Time consumed:1.08s
+
+epoch 105 training time consumed: 29.11s
+Test set: Epoch: 105, CMI Accuracy: 0.7228,Time consumed:1.03s
+
+epoch 106 training time consumed: 29.10s
+Test set: Epoch: 106, CMI Accuracy: 0.7265,Time consumed:1.12s
+
+epoch 107 training time consumed: 29.08s
+Test set: Epoch: 107, CMI Accuracy: 0.7235,Time consumed:1.07s
+
+epoch 108 training time consumed: 29.08s
+Test set: Epoch: 108, CMI Accuracy: 0.7219,Time consumed:1.14s
+
+epoch 109 training time consumed: 29.05s
+Test set: Epoch: 109, CMI Accuracy: 0.7247,Time consumed:1.04s
+
+epoch 110 training time consumed: 29.08s
+Test set: Epoch: 110, CMI Accuracy: 0.7227,Time consumed:1.06s
+
+epoch 111 training time consumed: 29.57s
+Test set: Epoch: 111, CMI Accuracy: 0.7215,Time consumed:1.06s
+
+epoch 112 training time consumed: 29.04s
+Test set: Epoch: 112, CMI Accuracy: 0.7234,Time consumed:1.05s
+
+epoch 113 training time consumed: 29.12s
+Test set: Epoch: 113, CMI Accuracy: 0.7261,Time consumed:1.03s
+
+epoch 114 training time consumed: 29.05s
+Test set: Epoch: 114, CMI Accuracy: 0.7225,Time consumed:1.10s
+
+epoch 115 training time consumed: 29.11s
+Test set: Epoch: 115, CMI Accuracy: 0.7221,Time consumed:1.04s
+
+epoch 116 training time consumed: 29.07s
+Test set: Epoch: 116, CMI Accuracy: 0.7203,Time consumed:1.03s
+
+epoch 117 training time consumed: 29.06s
+Test set: Epoch: 117, CMI Accuracy: 0.7230,Time consumed:1.03s
+
+epoch 118 training time consumed: 29.04s
+Test set: Epoch: 118, CMI Accuracy: 0.7226,Time consumed:1.04s
+
+epoch 119 training time consumed: 29.14s
+Test set: Epoch: 119, CMI Accuracy: 0.7246,Time consumed:1.08s
+
+epoch 120 training time consumed: 29.05s
+Test set: Epoch: 120, CMI Accuracy: 0.7219,Time consumed:1.09s
+
+epoch 121 training time consumed: 29.11s
+Test set: Epoch: 121, CMI Accuracy: 0.7219,Time consumed:1.10s
+
+epoch 122 training time consumed: 29.05s
+Test set: Epoch: 122, CMI Accuracy: 0.7235,Time consumed:1.03s
+
+epoch 123 training time consumed: 29.00s
+Test set: Epoch: 123, CMI Accuracy: 0.7235,Time consumed:1.09s
+
+epoch 124 training time consumed: 29.06s
+Test set: Epoch: 124, CMI Accuracy: 0.7257,Time consumed:1.08s
+
+epoch 125 training time consumed: 29.11s
+Test set: Epoch: 125, CMI Accuracy: 0.7213,Time consumed:1.09s
+
+epoch 126 training time consumed: 29.04s
+Test set: Epoch: 126, CMI Accuracy: 0.7190,Time consumed:1.08s
+
+epoch 127 training time consumed: 29.07s
+Test set: Epoch: 127, CMI Accuracy: 0.7235,Time consumed:1.07s
+
+epoch 128 training time consumed: 29.16s
+Test set: Epoch: 128, CMI Accuracy: 0.7247,Time consumed:1.03s
+
+epoch 129 training time consumed: 29.08s
+Test set: Epoch: 129, CMI Accuracy: 0.7225,Time consumed:1.05s
+
+epoch 130 training time consumed: 29.01s
+Test set: Epoch: 130, CMI Accuracy: 0.7193,Time consumed:1.04s
+
+epoch 131 training time consumed: 29.12s
+Test set: Epoch: 131, CMI Accuracy: 0.7227,Time consumed:1.03s
+
+epoch 132 training time consumed: 29.01s
+Test set: Epoch: 132, CMI Accuracy: 0.7208,Time consumed:1.06s
+
+epoch 133 training time consumed: 29.11s
+Test set: Epoch: 133, CMI Accuracy: 0.7199,Time consumed:1.07s
+
+epoch 134 training time consumed: 29.08s
+Test set: Epoch: 134, CMI Accuracy: 0.7212,Time consumed:1.04s
+
+epoch 135 training time consumed: 29.00s
+Test set: Epoch: 135, CMI Accuracy: 0.7225,Time consumed:1.06s
+
+epoch 136 training time consumed: 29.14s
+Test set: Epoch: 136, CMI Accuracy: 0.7168,Time consumed:1.07s
+
+epoch 137 training time consumed: 29.11s
+Test set: Epoch: 137, CMI Accuracy: 0.7215,Time consumed:1.05s
+
+epoch 138 training time consumed: 29.03s
+Test set: Epoch: 138, CMI Accuracy: 0.7241,Time consumed:1.06s
+
+epoch 139 training time consumed: 29.13s
+Test set: Epoch: 139, CMI Accuracy: 0.7189,Time consumed:1.07s
+
+epoch 140 training time consumed: 29.05s
+Test set: Epoch: 140, CMI Accuracy: 0.7191,Time consumed:1.01s
+
+epoch 141 training time consumed: 28.99s
+Test set: Epoch: 141, CMI Accuracy: 0.7206,Time consumed:1.06s
+
+epoch 142 training time consumed: 29.07s
+Test set: Epoch: 142, CMI Accuracy: 0.7177,Time consumed:1.00s
+
+epoch 143 training time consumed: 29.11s
+Test set: Epoch: 143, CMI Accuracy: 0.7204,Time consumed:1.11s
+
+epoch 144 training time consumed: 29.04s
+Test set: Epoch: 144, CMI Accuracy: 0.7120,Time consumed:1.06s
+
+epoch 145 training time consumed: 29.18s
+Test set: Epoch: 145, CMI Accuracy: 0.7142,Time consumed:1.07s
+
+epoch 146 training time consumed: 29.05s
+Test set: Epoch: 146, CMI Accuracy: 0.7120,Time consumed:1.02s
+
+epoch 147 training time consumed: 29.09s
+Test set: Epoch: 147, CMI Accuracy: 0.7119,Time consumed:1.06s
+
+epoch 148 training time consumed: 29.04s
+Test set: Epoch: 148, CMI Accuracy: 0.7151,Time consumed:1.10s
+
+epoch 149 training time consumed: 28.99s
+Test set: Epoch: 149, CMI Accuracy: 0.7186,Time consumed:1.10s
+
+epoch 150 training time consumed: 29.07s
+Test set: Epoch: 150, CMI Accuracy: 0.7060,Time consumed:1.05s
+
+epoch 151 training time consumed: 29.04s
+Test set: Epoch: 151, CMI Accuracy: 0.6991,Time consumed:1.03s
+
+epoch 152 training time consumed: 29.00s
+Test set: Epoch: 152, CMI Accuracy: 0.7054,Time consumed:1.08s
+
+epoch 153 training time consumed: 29.09s
+Test set: Epoch: 153, CMI Accuracy: 0.6953,Time consumed:1.12s
+
+epoch 154 training time consumed: 29.10s
+Test set: Epoch: 154, CMI Accuracy: 0.6769,Time consumed:1.08s
+
+epoch 155 training time consumed: 29.01s
+Test set: Epoch: 155, CMI Accuracy: 0.6787,Time consumed:0.98s
+
+epoch 156 training time consumed: 29.05s
+Test set: Epoch: 156, CMI Accuracy: 0.6786,Time consumed:1.07s
+
+epoch 157 training time consumed: 29.08s
+Test set: Epoch: 157, CMI Accuracy: 0.6756,Time consumed:1.05s
+
+epoch 158 training time consumed: 29.07s
+Test set: Epoch: 158, CMI Accuracy: 0.6763,Time consumed:1.03s
+
+epoch 159 training time consumed: 29.09s
+Test set: Epoch: 159, CMI Accuracy: 0.6631,Time consumed:1.05s
+
+epoch 160 training time consumed: 29.02s
+Test set: Epoch: 160, CMI Accuracy: 0.6669,Time consumed:1.10s
+
+epoch 161 training time consumed: 29.13s
+Test set: Epoch: 161, CMI Accuracy: 0.5740,Time consumed:1.07s
+
+epoch 162 training time consumed: 29.03s
+Test set: Epoch: 162, CMI Accuracy: 0.6452,Time consumed:1.06s
+
+epoch 163 training time consumed: 29.06s
+Test set: Epoch: 163, CMI Accuracy: 0.5835,Time consumed:1.06s
+
+epoch 164 training time consumed: 28.98s
+Test set: Epoch: 164, CMI Accuracy: 0.6205,Time consumed:1.05s
+
+epoch 165 training time consumed: 29.02s
+Test set: Epoch: 165, CMI Accuracy: 0.5876,Time consumed:1.14s
+
+epoch 166 training time consumed: 29.00s
+Test set: Epoch: 166, CMI Accuracy: 0.5551,Time consumed:1.03s
+
+epoch 167 training time consumed: 29.01s
+Test set: Epoch: 167, CMI Accuracy: 0.5855,Time consumed:1.14s
+
+epoch 168 training time consumed: 29.04s
+Test set: Epoch: 168, CMI Accuracy: 0.5052,Time consumed:1.05s
+
+epoch 169 training time consumed: 29.04s
+Test set: Epoch: 169, CMI Accuracy: 0.3907,Time consumed:1.09s
+
+epoch 170 training time consumed: 29.12s
+Test set: Epoch: 170, CMI Accuracy: 0.3356,Time consumed:1.08s
+
+epoch 171 training time consumed: 29.06s
+Test set: Epoch: 171, CMI Accuracy: 0.3351,Time consumed:1.10s
+
+epoch 172 training time consumed: 29.11s
+Test set: Epoch: 172, CMI Accuracy: 0.2732,Time consumed:1.08s
+
+epoch 173 training time consumed: 29.02s
+Test set: Epoch: 173, CMI Accuracy: 0.2341,Time consumed:1.06s
+
+epoch 174 training time consumed: 29.10s
+Test set: Epoch: 174, CMI Accuracy: 0.2138,Time consumed:1.05s
+
+epoch 175 training time consumed: 29.11s
+Test set: Epoch: 175, CMI Accuracy: 0.1486,Time consumed:1.02s
+
+epoch 176 training time consumed: 29.01s
+Test set: Epoch: 176, CMI Accuracy: 0.1103,Time consumed:1.06s
+
+epoch 177 training time consumed: 29.05s
+Test set: Epoch: 177, CMI Accuracy: 0.2894,Time consumed:1.03s
+
+epoch 178 training time consumed: 29.11s
+Test set: Epoch: 178, CMI Accuracy: 0.1223,Time consumed:1.09s
+
+epoch 179 training time consumed: 29.05s
+Test set: Epoch: 179, CMI Accuracy: 0.0750,Time consumed:1.05s
+
+epoch 180 training time consumed: 29.12s
+Test set: Epoch: 180, CMI Accuracy: 0.0878,Time consumed:1.15s
+
+epoch 181 training time consumed: 29.01s
+Test set: Epoch: 181, CMI Accuracy: 0.0601,Time consumed:1.10s
+
+epoch 182 training time consumed: 29.10s
+Test set: Epoch: 182, CMI Accuracy: 0.1290,Time consumed:1.02s
+
+epoch 183 training time consumed: 29.08s
+Test set: Epoch: 183, CMI Accuracy: 0.0739,Time consumed:1.01s
+
+epoch 184 training time consumed: 29.17s
+Test set: Epoch: 184, CMI Accuracy: 0.0685,Time consumed:1.12s
+
+epoch 185 training time consumed: 29.06s
+Test set: Epoch: 185, CMI Accuracy: 0.0376,Time consumed:1.13s
+
+epoch 186 training time consumed: 29.16s
+Test set: Epoch: 186, CMI Accuracy: 0.0574,Time consumed:1.04s
+
+epoch 187 training time consumed: 29.05s
+Test set: Epoch: 187, CMI Accuracy: 0.0283,Time consumed:1.11s
+
+epoch 188 training time consumed: 29.07s
+Test set: Epoch: 188, CMI Accuracy: 0.0350,Time consumed:1.08s
+
+epoch 189 training time consumed: 29.05s
+Test set: Epoch: 189, CMI Accuracy: 0.0355,Time consumed:1.03s
+
+epoch 190 training time consumed: 29.06s
+Test set: Epoch: 190, CMI Accuracy: 0.0695,Time consumed:1.12s
+
+epoch 191 training time consumed: 29.08s
+Test set: Epoch: 191, CMI Accuracy: 0.0175,Time consumed:1.04s
+
+epoch 192 training time consumed: 29.08s
+Test set: Epoch: 192, CMI Accuracy: 0.0200,Time consumed:1.07s
+
+epoch 193 training time consumed: 29.06s
+Test set: Epoch: 193, CMI Accuracy: 0.0244,Time consumed:1.08s
+
+epoch 194 training time consumed: 29.04s
+Test set: Epoch: 194, CMI Accuracy: 0.0550,Time consumed:1.07s
+
+epoch 195 training time consumed: 29.02s
+Test set: Epoch: 195, CMI Accuracy: 0.0224,Time consumed:1.08s
+
+epoch 196 training time consumed: 29.11s
+Test set: Epoch: 196, CMI Accuracy: 0.0123,Time consumed:1.08s
+
+epoch 197 training time consumed: 29.04s
+Test set: Epoch: 197, CMI Accuracy: 0.0187,Time consumed:1.06s
+
+epoch 198 training time consumed: 29.03s
+Test set: Epoch: 198, CMI Accuracy: 0.0245,Time consumed:1.14s
+
+epoch 199 training time consumed: 29.02s
+Test set: Epoch: 199, CMI Accuracy: 0.0158,Time consumed:1.16s
+
+epoch 200 training time consumed: 29.04s
+Test set: Epoch: 200, CMI Accuracy: 0.0158,Time consumed:1.06s
+
+Settings:  0.1 0.5 Best CMI scc: 0.7265

@@ -1,0 +1,22 @@
+CUDA_VISIBLE_DEVICES=7 python NCMI_gcenter_r.py -net resnet18 -gpu -lr 0.1 -feature_Temp 0.1 -wd 1e-3 -centmomentum 0.999 -centlr 0.01 >> test6.txt
+CUDA_VISIBLE_DEVICES=7 python NCMI_gcenter_r.py -net resnet18 -gpu -lr 0.1 -feature_Temp 0.2 -wd 1e-3 -centmomentum 0.999 -centlr 0.01 >> test6.txt
+CUDA_VISIBLE_DEVICES=7 python NCMI_gcenter_r.py -net resnet18 -gpu -lr 0.1 -feature_Temp 0.5 -wd 1e-3 -centmomentum 0.999 -centlr 0.01 >> test6.txt
+CUDA_VISIBLE_DEVICES=7 python NCMI_gcenter_r.py -net resnet18 -gpu -lr 0.1 -feature_Temp 0.7 -wd 1e-3 -centmomentum 0.999 -centlr 0.01 >> test6.txt
+CUDA_VISIBLE_DEVICES=7 python NCMI_gcenter_r.py -net resnet18 -gpu -lr 0.1 -feature_Temp 1.0 -wd 1e-3 -centmomentum 0.999 -centlr 0.01 >> test6.txt
+CUDA_VISIBLE_DEVICES=7 python NCMI_gcenter_r.py -net resnet18 -gpu -lr 0.1 -feature_Temp 2.0 -wd 1e-3 -centmomentum 0.999 -centlr 0.01 >> test6.txt
+CUDA_VISIBLE_DEVICES=7 python NCMI_gcenter_r.py -net resnet18 -gpu -lr 0.1 -feature_Temp 0.1 -wd 1e-3 -centmomentum 0.99 -centlr 0.01 >> test6.txt
+CUDA_VISIBLE_DEVICES=7 python NCMI_gcenter_r.py -net resnet18 -gpu -lr 0.1 -feature_Temp 0.2 -wd 1e-3 -centmomentum 0.99 -centlr 0.01 >> test6.txt
+CUDA_VISIBLE_DEVICES=7 python NCMI_gcenter_r.py -net resnet18 -gpu -lr 0.1 -feature_Temp 0.5 -wd 1e-3 -centmomentum 0.99 -centlr 0.01 >> test6.txt
+CUDA_VISIBLE_DEVICES=7 python NCMI_gcenter_r.py -net resnet18 -gpu -lr 0.1 -feature_Temp 0.7 -wd 1e-3 -centmomentum 0.99 -centlr 0.01 >> test6.txt
+CUDA_VISIBLE_DEVICES=7 python NCMI_gcenter_r.py -net resnet18 -gpu -lr 0.1 -feature_Temp 1.0 -wd 1e-3 -centmomentum 0.99 -centlr 0.01 >> test6.txt
+CUDA_VISIBLE_DEVICES=7 python NCMI_gcenter_r.py -net resnet18 -gpu -lr 0.1 -feature_Temp 2.0 -wd 1e-3 -centmomentum 0.99 -centlr 0.01 >> test6.txt
+CUDA_VISIBLE_DEVICES=7 python NCMI_gcenter_r.py -net resnet18 -gpu -lr 0.1 -feature_Temp 0.1 -wd 1e-3 -centmomentum 0.9 -centlr 0.01 >> test6.txt
+CUDA_VISIBLE_DEVICES=7 python NCMI_gcenter_r.py -net resnet18 -gpu -lr 0.1 -feature_Temp 0.2 -wd 1e-3 -centmomentum 0.9 -centlr 0.01 >> test6.txt
+CUDA_VISIBLE_DEVICES=7 python NCMI_gcenter_r.py -net resnet18 -gpu -lr 0.1 -feature_Temp 0.5 -wd 1e-3 -centmomentum 0.9 -centlr 0.01 >> test6.txt
+CUDA_VISIBLE_DEVICES=7 python NCMI_gcenter_r.py -net resnet18 -gpu -lr 0.1 -feature_Temp 0.7 -wd 1e-3 -centmomentum 0.9 -centlr 0.01 >> test6.txt
+CUDA_VISIBLE_DEVICES=7 python NCMI_gcenter_r.py -net resnet18 -gpu -lr 0.1 -feature_Temp 1.0 -wd 1e-3 -centmomentum 0.9 -centlr 0.01 >> test6.txt
+CUDA_VISIBLE_DEVICES=7 python NCMI_gcenter_r.py -net resnet18 -gpu -lr 0.1 -feature_Temp 2.0 -wd 1e-3 -centmomentum 0.9 -centlr 0.01 >> test6.txt
+CUDA_VISIBLE_DEVICES=7 python NCMI_gcenter_r.py -net resnet18 -gpu -lr 0.1 -feature_Temp 0.1 -wd 1e-3 -centmomentum 0.999 -centlr 0.1 >> test6.txt
+CUDA_VISIBLE_DEVICES=7 python NCMI_gcenter_r.py -net resnet18 -gpu -lr 0.1 -feature_Temp 0.2 -wd 1e-3 -centmomentum 0.999 -centlr 0.1 >> test6.txt
+CUDA_VISIBLE_DEVICES=7 python NCMI_gcenter_r.py -net resnet18 -gpu -lr 0.1 -feature_Temp 0.5 -wd 1e-3 -centmomentum 0.999 -centlr 0.1 >> test6.txt
+

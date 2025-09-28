@@ -1,0 +1,36 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Settings: lr:0.1, Temp:0.2, WD:0.0005, centlr:0.01, centmomentum:0.99 Best CMI acc --- : 0.7556
+Files already downloaded and verified
+Files already downloaded and verified
+Settings: lr:0.1, Temp:0.5, WD:0.0005, centlr:0.01, centmomentum:0.99 Best CMI acc --- : 0.7468
+Files already downloaded and verified
+Files already downloaded and verified
+Settings: lr:0.1, Temp:0.2, WD:0.0005, centlr:0.1, centmomentum:0.99 Best CMI acc --- : 0.746
+Files already downloaded and verified
+Files already downloaded and verified
+Settings: lr:0.1, Temp:0.5, WD:0.0005, centlr:0.1, centmomentum:0.99 Best CMI acc --- : 0.7457
+Files already downloaded and verified
+Files already downloaded and verified
+Settings: lr:0.1, Temp:0.2, WD:0.0005, centlr:1.0, centmomentum:0.99 Best CMI acc --- : 0.7509
+Files already downloaded and verified
+Files already downloaded and verified
+Settings: lr:0.1, Temp:0.5, WD:0.0005, centlr:1.0, centmomentum:0.99 Best CMI acc --- : 0.7463
+Files already downloaded and verified
+Files already downloaded and verified
+Settings: lr:0.2, Temp:0.2, WD:0.0005, centlr:0.01, centmomentum:0.99 Best CMI acc --- : 0.7487
+Files already downloaded and verified
+Files already downloaded and verified
+Settings: lr:0.2, Temp:0.5, WD:0.0005, centlr:0.01, centmomentum:0.99 Best CMI acc --- : 0.7445
+Files already downloaded and verified
+Files already downloaded and verified
+Settings: lr:0.2, Temp:0.2, WD:0.0005, centlr:0.1, centmomentum:0.99 Best CMI acc --- : 0.7491
+Files already downloaded and verified
+Files already downloaded and verified
+Settings: lr:0.2, Temp:0.5, WD:0.0005, centlr:0.1, centmomentum:0.99 Best CMI acc --- : 0.7452
+Files already downloaded and verified
+Files already downloaded and verified
+Settings: lr:0.2, Temp:0.2, WD:0.0005, centlr:1.0, centmomentum:0.99 Best CMI acc --- : 0.7468
+Files already downloaded and verified
+Files already downloaded and verified
+Settings: lr:0.2, Temp:0.5, WD:0.0005, centlr:1.0, centmomentum:0.99 Best CMI acc --- : 0.7435

@@ -1,0 +1,18 @@
+Files already downloaded and verified
+Files already downloaded and verified
+Settings: lr:0.1, Temp:0.7, WD:0.001, centlr:0.1, centmomentum:0.999 Best CMI acc --- : 0.7455
+Files already downloaded and verified
+Files already downloaded and verified
+Settings: lr:0.1, Temp:1.0, WD:0.001, centlr:0.1, centmomentum:0.999 Best CMI acc --- : 0.7462
+Files already downloaded and verified
+Files already downloaded and verified
+Settings: lr:0.1, Temp:2.0, WD:0.001, centlr:0.1, centmomentum:0.999 Best CMI acc --- : 0.741
+Files already downloaded and verified
+Files already downloaded and verified
+Settings: lr:0.1, Temp:0.1, WD:0.001, centlr:0.1, centmomentum:0.99 Best CMI acc --- : 0.6818
+Files already downloaded and verified
+Files already downloaded and verified
+Settings: lr:0.1, Temp:0.2, WD:0.001, centlr:0.1, centmomentum:0.99 Best CMI acc --- : 0.7489
+Files already downloaded and verified
+Files already downloaded and verified
+Settings: lr:0.1, Temp:0.5, WD:0.001, centlr:0.1, centmomentum:0.99 Best CMI acc --- : 0.7408
